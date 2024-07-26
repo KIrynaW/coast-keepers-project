@@ -22,19 +22,19 @@ body {
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 
 
-/* *************************  Header ************************* */
+/****  Header ****/
 header {
     background-color: #199999;
 }
 
-/**************************  Main Content **************************/
+/**** Main Content ****/
 main {
     background-color: #e7dedb;
-    /*Increase the main section to push the footer down */
+    /* Increase the main section to push the footer down */
     flex: 1 0 auto;
 }
 
-/**************************  Footer **************************/
+/**** Footer ****/
 footer {
     background-color: #199999;
 }
