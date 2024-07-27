@@ -29,11 +29,25 @@ body {
 
 /****  Header ****/
 header {
-    background-color: #199999;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    width: 100%;
+    position: fixed;
+    top:15px;
+    z-index: 99;
+    box-shadow: 0 2px 2px #525159;
+    border-top: 1px solid #525159;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
 }
 
 h1 {
     font-family: "Roboto Slab" , serif;
+    letter-spacing: 1px;
+    color: #199999;
 }
 
 /**** Main Content ****/
