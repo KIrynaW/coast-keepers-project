@@ -32,6 +32,10 @@ header {
     background-color: #199999;
 }
 
+h1 {
+    font-family: "Roboto Slab" , serif;
+}
+
 /**** Main Content ****/
 main {
     background-color: #e7dedb;
