@@ -65,9 +65,8 @@ header a {
 #menu {
     font-size: 120%;
     list-style-type: none;
-    letter-spacing: 3px;
-    text-align:left;
-    margin-top: 0.5rem;
+    letter-spacing: 5px;
+    text-align:center;
 }
 
 #menu>li {
@@ -76,7 +75,7 @@ header a {
 
 .highlight {
     /* Created a 2 color gradient for visual interest */
-    background: linear-gradient(to top, #eab5a5 20%, transparent 35%);
+    background: linear-gradient(to top, #eab5a5 10%, transparent 5%);
 }
 
 /* NavigationBar styles with dropdown toggle */
@@ -147,6 +146,16 @@ footer {
         line-height: 50px;
         margin: 0 0.5rem;
     }
+}
+
+/* For laptops and desctop screens (992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+    /* Created a 2 color gradient for visual interest */
+    background: linear-gradient(to top, #eab5a5 40%, transparent 35%);
+
+    }
+    
 }
 
 
