@@ -135,6 +135,7 @@ footer {
     
     #menu > li {
         padding-left: 1rem;
+        margin-bottom: 0;
     }
     
     .nav-dropdown-label {
