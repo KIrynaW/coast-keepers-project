@@ -31,7 +31,7 @@ body {
 /****  Header ****/
 header {
     background-color: #ffffff;
-    padding: 0 1rem;
+    padding: 0 1rem 0 0.5rem;
     width: 100%;
     position: fixed;
     top: 10px;
@@ -41,7 +41,7 @@ header {
     border-top: 2px solid rgb(81, 81, 89, 0.7);
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
 
 }
 
@@ -50,12 +50,14 @@ header a {
     color: inherit;
 }
 
-h1 {
+#logo, h1 {
     font-family: "Roboto Slab", serif;
     text-transform: uppercase;
-    font-weight: 400;
+    font-size: 150%;
+    font-weight: 600;
     letter-spacing: 2px;
     color: #199999;
+    line-height: 50px;
     padding: 0.5rem 0;
 }
 
@@ -63,8 +65,8 @@ h1 {
 #menu {
     font-size: 120%;
     list-style-type: none;
-    letter-spacing: 2px;
-    text-align: right;
+    letter-spacing: 3px;
+    text-align:left;
     margin-top: 0.5rem;
 }
 
@@ -98,7 +100,7 @@ nav {
     display: none;
 }
 .nav-dropdown-label {
-    font-size: 2rem;
+    font-size: 1.5rem;
 
 }
 
@@ -108,7 +110,7 @@ main {
     background-color: #e7dedb;
     /* Increase the main section to push the footer down */
     flex: 1 0 auto;
-    margin-top: 60px;
+    margin-top: 79px;
 }
 
 /**** Footer ****/
@@ -138,6 +140,12 @@ footer {
     
     .nav-dropdown-label {
         display: none;
+    }
+
+    #logo {
+        font-size: 150%;
+        line-height: 50px;
+        margin: 0 0.5rem;
     }
 }
 
