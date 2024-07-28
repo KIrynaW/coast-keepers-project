@@ -1,4 +1,4 @@
-/*>>>>>>>>>>>>>>>>>>>>>>>>> Styles for All Pages <<<<<<<<<<<<<<<<<<<<<<<<*/
+/*>>>>>>>>>>>>>>>>>>>>>>>>> General Styles  <<<<<<<<<<<<<<<<<<<<<<<<*/
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 
 /* Imported Google fonts - Barlow and Roboto Slab */
@@ -21,11 +21,11 @@ body {
     background-color: #e7dedb;
 }
 
-/*======================= End of Styles for All Pages =======================*/
+/*======================= End of General Styles =======================*/
 /*===========================================================================*/
 
-/*>>>>>>>>>>>>>>>>>>>>>>>>> Styles for Index Page <<<<<<<<<<<<<<<<<<<<<<<<*/
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+/*>>>>>>>>>>>>>>>>>>>>>>>>> Styles for Index Page and All Headers + Footers <<<<<<<<<<<<<<<<<<<<<<<<*/
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 
 
 /****  Header ****/
@@ -50,7 +50,8 @@ header a {
     color: inherit;
 }
 
-#logo, h1 {
+#logo,
+h1 {
     font-family: "Roboto Slab", serif;
     text-transform: uppercase;
     font-size: 150%;
@@ -66,7 +67,7 @@ header a {
     font-size: 120%;
     list-style-type: none;
     letter-spacing: 5px;
-    text-align:center;
+    text-align: center;
 }
 
 #menu>li {
@@ -74,7 +75,6 @@ header a {
 }
 
 .highlight {
-    /* Created a 2 color gradient for visual interest */
     background: linear-gradient(to top, #eab5a5 10%, transparent 5%);
 }
 
@@ -98,6 +98,7 @@ nav {
 #nav-dropdown {
     display: none;
 }
+
 .nav-dropdown-label {
     font-size: 1.5rem;
 
@@ -120,6 +121,7 @@ footer {
 /*+++++ Media Responsivness +++++*/
 /* For tablets and larger screens (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -132,12 +134,12 @@ footer {
     #menu {
         display: flex;
     }
-    
-    #menu > li {
+
+    #menu>li {
         padding-left: 1rem;
         margin-bottom: 0;
     }
-    
+
     .nav-dropdown-label {
         display: none;
     }
@@ -152,13 +154,13 @@ footer {
 /* For laptops and desctop screens (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-    /* Created a 2 color gradient for visual interest */
-    background: linear-gradient(to top, #eab5a5 40%, transparent 35%);
+        /* Created a 2 color gradient for visual interest */
+        background: linear-gradient(to top, #eab5a5 40%, transparent 35%);
 
     }
-    
+
 }
 
 
-/*======================= End of Styles for Index Page =======================*/
-/*===========================================================================*/
+/*======================= End of Styles for Index Page and All Headers + Footers =======================*/
+/*======================================================================================================*/
