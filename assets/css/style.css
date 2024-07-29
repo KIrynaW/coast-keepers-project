@@ -116,16 +116,17 @@ main {
 /**** Footer ****/
 footer {
     background-color: #199999;
-    justify-content: center;
 }
 
 #our-social-web {
     background-color: #199999;
-    text-align: center;
-    padding: 15px 0;
+    text-align: left;
+    padding: 15px 20px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-between;
     list-style-type: none;
+    letter-spacing: 3px;
+    
 }
 
 #our-social-web i {
@@ -134,14 +135,18 @@ footer {
     padding: 5%;
 }
 
+footer a {
+    text-decoration: none;
+}
 #join-button {
-    background-color: #eab5a5;
+    color: #ffffff;
+    margin: 0 1rem;
+    padding:2%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
     font-family: "Roboto Slab", serif;
-    color: #525159;
-    margin: 5px;
-    padding: 0 20px;
+    text-align: center;
     display: flex;
-    justify-content: center;
 }
 
 /*+++++ Media Responsivness +++++*/
