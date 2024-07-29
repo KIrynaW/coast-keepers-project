@@ -114,9 +114,14 @@ main {
 }
 
 /**** Footer ****/
+footer {
+    background-color: #199999;
+    justify-content: center;
+}
+
 #our-social-web {
     background-color: #199999;
-    text-align: right;
+    text-align: center;
     padding: 15px 0;
     display: flex;
     justify-content: space-evenly;
@@ -127,6 +132,16 @@ main {
     color: #ffffff;
     font-size: 140%;
     padding: 5%;
+}
+
+#join-button {
+    background-color: #eab5a5;
+    font-family: "Roboto Slab", serif;
+    color: #525159;
+    margin: 5px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
 }
 
 /*+++++ Media Responsivness +++++*/
