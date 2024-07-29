@@ -114,8 +114,19 @@ main {
 }
 
 /**** Footer ****/
-footer {
+#our-social-web {
     background-color: #199999;
+    text-align: right;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#our-social-web i {
+    color: #ffffff;
+    font-size: 140%;
+    padding: 5%;
 }
 
 /*+++++ Media Responsivness +++++*/
