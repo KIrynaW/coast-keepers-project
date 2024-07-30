@@ -114,18 +114,14 @@ main {
 }
 
 /**** Footer ****/
-footer {
-    background-color: #199999;
-}
-
 #our-social-web {
     background-color: #199999;
-    text-align: left;
-    padding: 15px 20px;
+    border-top: 2px solid rgb(81, 81, 89, 0.7);
+    text-align: center;
+    padding: 15px 0;
     display: flex;
-    justify-content:space-between;
+    justify-content:space-evenly;
     list-style-type: none;
-    letter-spacing: 3px;
     
 }
 
@@ -135,19 +131,21 @@ footer {
     padding: 5%;
 }
 
-footer a {
+#our-social-web a {
     text-decoration: none;
-}
-#join-button {
     color: #ffffff;
-    margin: 0 1rem;
-    padding:2%;
-    letter-spacing: 2px;
     text-transform: uppercase;
-    font-family: "Roboto Slab", serif;
-    text-align: center;
-    display: flex;
 }
+
+.visit-socials {
+    margin: 1%;
+}
+
+.joi-us .contact-us {
+    margin-top: 1%;
+}
+
+
 
 /*+++++ Media Responsivness +++++*/
 /* For tablets and larger screens (768px and up) */
