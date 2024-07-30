@@ -118,16 +118,17 @@ main {
     background-color: #199999;
     border-top: 2px solid rgb(81, 81, 89, 0.7);
     text-align: center;
-    padding: 15px 0;
+    padding: 5px 0;
     display: flex;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
+    align-items: center;
     list-style-type: none;
-    
+
 }
 
 #our-social-web i {
     color: #ffffff;
-    font-size: 140%;
+    font-size: 160%;
     padding: 5%;
 }
 
@@ -137,13 +138,15 @@ main {
     text-transform: uppercase;
 }
 
-.visit-socials {
-    margin: 1%;
+#our-social-web i:hover {
+    color: #eab5a5;
 }
 
-.joi-us .contact-us {
-    margin-top: 1%;
+.visit-socials {
+    margin: 1%;
+    padding-top: 1rem;
 }
+
 
 
 
