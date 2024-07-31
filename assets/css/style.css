@@ -62,7 +62,7 @@ h1 {
     padding: 0.5rem 0;
 }
 
-/* Index Page navigation */
+/* Page navigation */
 #menu {
     font-size: 120%;
     list-style-type: none;
@@ -107,10 +107,16 @@ nav {
 
 /**** Main Content ****/
 main {
-    background-color: #e7dedb;
     /* Increase the main section to push the footer down */
     flex: 1 0 auto;
     margin-top: 79px;
+}
+
+/* Hero image */
+#hero-image {
+    height: 800px;
+    width: 100%;
+    background: url("../images/bottle-hand.webp") no-repeat center center/cover;
 }
 
 /**** Footer ****/
