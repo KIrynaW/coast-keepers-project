@@ -2,7 +2,7 @@
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 
 /* Imported Google fonts - Barlow and Roboto Slab */
-@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bebas+Neue&display=swap');
 
 /* Default browser styles override */
 * {
@@ -22,10 +22,10 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: "Roboto Slab", serif;
-    font-size: 110%;
+    font-family: "Bebas Neue", serif;
+    font-size: 130%;
     font-weight: 600;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     text-transform: uppercase;
 }
 
@@ -59,9 +59,9 @@ header a {
 }
 
 #logo {
-    font-family: "Roboto Slab", serif;
+    font-family: "Bebas Neue", serif;
     text-transform: uppercase;
-    font-size: 150%;
+    font-size: 180%;
     font-weight: 600;
     letter-spacing: 2px;
     color: #199999;
@@ -128,17 +128,38 @@ main {
 }
 
 #intro-text {
-    background-color:rgba(234,181,165,.5);
+    background-color:rgba(234,181,165,.7);
     position: absolute;
-    bottom: 15%;
+    bottom: 20%;
+    /* Makr the into-text stick to the left of the page */
     width: 60%;
-    margin-left: 20%;
-    margin-right: 20%;
-    padding: 1rem;
+    margin-left: 40%;
+    margin-right: 5%;
+    padding: 10px;
     min-height: 100px;
-    text-align:center;
-    border-radius: 25px;
+    text-align:right;
+    /* Make the corners rounded */
+    border-radius: 20px;
     
+}
+
+#intro-text h3 {
+    font-size: 150%;
+}
+
+#intro-text .learn-more:hover {
+    background-color: rgba(25, 153, 153, 0.7);
+}
+
+.learn-more {
+    background-color: #ffffff;
+    color: #525159;
+    border-radius: 4px;
+    font-family: inherit;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid rgb(81, 81, 89, 0.7);
+    font-weight: 500;
 }
 
 /**** Footer ****/
@@ -206,7 +227,7 @@ main {
     }
 
     #logo {
-        font-size: 150%;
+        font-size: 180%;
         line-height: 50px;
         margin: 0 0.5rem;
     }
