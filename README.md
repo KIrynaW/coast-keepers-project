@@ -21,7 +21,7 @@ The Coast Keepers website is a place where the local community of environmentall
 2. [**Implementation Phase**](#implementation-phase)
    * [***Website Features***](#website-features)
       * [*Index(Home) Page*](#indexhome-page)
-      * [About Us Page*](#about-us-page)
+      * [About Page*](#about-page)
       * [Scedule Page](#schedule-page)
       * [Sign Up Page](#sign-up-page)
    * [**Possible Future Features**](#possible-future-features)
@@ -85,19 +85,33 @@ The Coast Keepers website has four pages that will engage the users with it's co
 The website is responsive on all screen types: Phones, Tablets and Laptops.
 
 *Phones*
-![Wireframe of home page for phone screens](assets/wireframes/phones/home_%20phone_screen.png)
-![Wireframe of about page for phone screens](assets/wireframes/phones/about_%20phone_screen.png)
-![Wireframe of schedule page for phone screens](assets/wireframes/phones/schedule_%20phone_screen.png)
-![Wireframe of sign up page for phone screens](assets/wireframes/phones/signup_phone_screen.png)
+
+![Wireframe of Home page for phone screens](assets/wireframes/phones/home_%20phone_screen.png)
+![Wireframe of About page for phone screens](assets/wireframes/phones/about_%20phone_screen.png)
+![Wireframe of Schedule page for phone screens](assets/wireframes/phones/schedule_%20phone_screen.png)
+![Wireframe of Sign up page for phone screens](assets/wireframes/phones/sign_%20up_phone_screen.png)
 
 *Tablets*
+
+![Wireframe of Home page for tablet screens](assets/wireframes/tablets/home_%20ipad_screen.png)
+![Wireframe of About page for tablet screens](assets/wireframes/tablets/about_%20ipad_screen.png)
+![Wireframe of Schedule page for tablet screens](assets/wireframes/tablets/schedule_%20ipad_screen.png)
+![Wireframe of Sign Up page for tablet screens](assets/wireframes/tablets/signup_%20ipad_screen.png)
+
+*Laptops*
+
+![Wireframe of Home page for laptop screens](assets/wireframes/laptops/home_%20laptop_screen.png)
+![Wireframe of About page for laptop screens](assets/wireframes/laptops/about_%20laptop_screen.png)
+![Wireframe of Schedule page for laptop screens](assets/wireframes/laptops/schedule_%20laptop-screens.png)
+![Wireframe of Sign Up page for laptop screens](assets/wireframes/laptops/signup_%20laptop_screens.png)
+
 #### *Color Scheme:*
 #### *Fonts:*
 
 ## **Implementation Phase:**
 ### **Website Features**
 #### *Index(Home) Page*
-#### *About Us Page*
+#### *About Page*
 #### *Schedule Page*
 #### *Sign Up Page*
 ### **Possible Future Features**
