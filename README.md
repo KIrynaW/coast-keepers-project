@@ -78,9 +78,19 @@ The Coast Keepers website has four pages that will engage the users with it's co
 
 >All Page Footers: All the footers on all pages have four action buttons that takes the user to external sites; the email, Facebook, Instagram and X(Twitter). It also has a 'Join Us' button on 'Home', 'About' and 'Schedule' pages that takes the user to the 'Sign Up' page. On the 'Sign Up' page the action button changes from the 'Join Us' to 'Home', that takes the user back to 'Home' page when clicked.
 
+
 ***
 
 #### *Wireframes:*
+The website is responsive on all screen types: Phones, Tablets and Laptops.
+
+*Phones*
+![Wireframe of home page for phone screens](assets/wireframes/phones/home_%20phone_screen.png)
+![Wireframe of about page for phone screens](assets/wireframes/phones/about_%20phone_screen.png)
+![Wireframe of schedule page for phone screens](assets/wireframes/phones/schedule_%20phone_screen.png)
+![Wireframe of sign up page for phone screens](assets/wireframes/phones/signup_phone_screen.png)
+
+*Tablets*
 #### *Color Scheme:*
 #### *Fonts:*
 
