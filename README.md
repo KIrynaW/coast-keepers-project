@@ -84,19 +84,24 @@ The Coast Keepers website has four pages that will engage the users with it's co
 #### *Wireframes:*
 The website is responsive on all screen types: Phones, Tablets and Laptops.
 
+*All Screen Functionality*
+
+![Wireframe for all screens Home page](assets/wireframes/home.png)
+![Wireframe focusing on the footer feature](assets/wireframes/footer_explained.png)
+
 *Phones*
 
 ![Wireframe of Home page for phone screens](assets/wireframes/phones/home_%20phone_screen.png)
 ![Wireframe of About page for phone screens](assets/wireframes/phones/about_%20phone_screen.png)
 ![Wireframe of Schedule page for phone screens](assets/wireframes/phones/schedule_%20phone_screen.png)
-![Wireframe of Sign up page for phone screens](assets/wireframes/phones/sign_%20up_phone_screen.png)
+![Wireframe of Sign up page for phone screens](assets/wireframes/phones/signup_phone_screen.png)
 
 *Tablets*
 
 ![Wireframe of Home page for tablet screens](assets/wireframes/tablets/home_%20ipad_screen.png)
 ![Wireframe of About page for tablet screens](assets/wireframes/tablets/about_%20ipad_screen.png)
 ![Wireframe of Schedule page for tablet screens](assets/wireframes/tablets/schedule_%20ipad_screen.png)
-![Wireframe of Sign Up page for tablet screens](assets/wireframes/tablets/signup_%20ipad_screen.png)
+![Wireframe of Sign Up page for tablet screens](assets/wireframes/tablets/signup_ipad_screen.png)
 
 *Laptops*
 
