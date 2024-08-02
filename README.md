@@ -86,29 +86,29 @@ The website is responsive on all screen types: Phones, Tablets and Laptops.
 
 *All Screen Functionality*
 
-![Wireframe for all screens Home page](assets/wireframes/home.png)
-![Wireframe focusing on the footer feature](assets/wireframes/footer_explained.png)
+![Wireframe for all screens Home page](docs/wireframes/home.png)
+![Wireframe focusing on the footer feature](docs/wireframes/footer_explained.png)
 
 *Phones*
 
-![Wireframe of Home page for phone screens](assets/wireframes/phones/home_%20phone_screen.png)
-![Wireframe of About page for phone screens](assets/wireframes/phones/about_%20phone_screen.png)
-![Wireframe of Schedule page for phone screens](assets/wireframes/phones/schedule_%20phone_screen.png)
-![Wireframe of Sign up page for phone screens](assets/wireframes/phones/signup_phone_screen.png)
+![Wireframe of Home page for phone screens](docs/wireframes/home_%20phone_screen.png)
+![Wireframe of About page for phone screens](docs/wireframes/about_%20phone_screen.png)
+![Wireframe of Schedule page for phone screens](docs/wireframes/schedule_%20phone_screen.png)
+![Wireframe of Sign up page for phone screens](docs/wireframes/signup_phone_screen.png)
 
 *Tablets*
 
-![Wireframe of Home page for tablet screens](assets/wireframes/tablets/home_%20ipad_screen.png)
-![Wireframe of About page for tablet screens](assets/wireframes/tablets/about_%20ipad_screen.png)
-![Wireframe of Schedule page for tablet screens](assets/wireframes/tablets/schedule_%20ipad_screen.png)
-![Wireframe of Sign Up page for tablet screens](assets/wireframes/tablets/signup_ipad_screen.png)
+![Wireframe of Home page for tablet screens](docs/wireframes/home_%20ipad_screen.png)
+![Wireframe of About page for tablet screens](docs/wireframes/about_%20ipad_screen.png)
+![Wireframe of Schedule page for tablet screens](docs/wireframes/schedule_%20ipad_screen.png)
+![Wireframe of Sign Up page for tablet screens](docs/wireframes/signup_ipad_screen.png)
 
 *Laptops*
 
-![Wireframe of Home page for laptop screens](assets/wireframes/laptops/home_%20laptop_screen.png)
-![Wireframe of About page for laptop screens](assets/wireframes/laptops/about_%20laptop_screen.png)
-![Wireframe of Schedule page for laptop screens](assets/wireframes/laptops/schedule_%20laptop-screens.png)
-![Wireframe of Sign Up page for laptop screens](assets/wireframes/laptops/signup_%20laptop_screens.png)
+![Wireframe of Home page for laptop screens](docs/wireframes/home_%20laptop_screen.png)
+![Wireframe of About page for laptop screens](docs/wireframes/about_%20laptop_screen.png)
+![Wireframe of Schedule page for laptop screens](docs/wireframes/schedule_%20laptop-screens.png)
+![Wireframe of Sign Up page for laptop screens](docs/wireframes/signup_%20laptop_screens.png)
 
 #### *Color Scheme:*
 #### *Fonts:*
