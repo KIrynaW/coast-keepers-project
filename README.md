@@ -67,6 +67,16 @@ Deirdre, Community Development Officer, Banna, Co.Kerry:
 ***Goal Site Owner :*** Teach local communities in Co.Kerry about coastal environment preservation, spread awarenes about implication of coastal pollution and gain volunteers for the future cleanup events. Avertisment of clean up events and community engagement.
 
 ### **User Interface(UI)**
+The Coast Keepers website has four pages that will engage the users with it's content.
+>Home Page: It briefly introduces the user to the ethos of the site owner, and what their social organisation can offer to their users. The header has a 'Learn More' call to action button, that takes the user to the 'About' page.
+
+>About Page: Here users learn more about the website owners and how Coast Keepers initiative has started. They also learn more about the importanse of coastal cleaning and implication of pollution on environment.
+
+>Schedule: This page shows users the different beach locations in Co. Kerry and times and dates of the clean-up events, it also has an address and a map where it shows to users where they can go to collect their free cleaning gear.
+
+>Sign Up: Here, users can imput their full name and email and sign up to one or more beach location cleaning events.
+
+>All Page Footers: All the footers on all pages have four action buttons that takes the user to external sites; the email, Facebook, Instagram and X(Twitter). It also has a 'Join Us' button on 'Home', 'About' and 'Schedule' pages that takes the user to the 'Sign Up' page. On the 'Sign Up' page the action button changes from the 'Join Us' to 'Home', that takes the user back to 'Home' page when clicked.
 
 ***
 
