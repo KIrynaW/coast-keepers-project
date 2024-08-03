@@ -15,7 +15,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #525159;
+    color: #45444b;
     font-family: "Barlow", sans-serif;
     font-weight: 500;
     background-color: #e7dedb;
@@ -45,8 +45,8 @@ header {
     top: 10px;
     z-index: 99;
     /* Created 2 color gradient to visualy connect the highlight element on nav bar */
-    box-shadow: 0 3px 2px -2px #525159, 0 5px 2px -2px #eab5a5;
-    border-top: 2px solid rgb(81, 81, 89, 0.7);
+    box-shadow: 0 3px 2px -2px #45444b, 0 5px 2px -2px #eab5a5;
+    border-top: 2px solid rgba(69, 68, 75, 0.7);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,7 +64,7 @@ header a {
     font-size: 180%;
     font-weight: 600;
     letter-spacing: 2px;
-    color: #199999;
+    color: #137C7C;
     line-height: 50px;
     padding: 0.5rem 0;
 }
@@ -92,7 +92,7 @@ nav {
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 3px 2px -2px #525159, 0 5px 2px -2px #eab5a5;
+    box-shadow: 0 3px 2px -2px #45444b, 0 5px 2px -2px #eab5a5;
     display: none;
     top: 100%;
 }
@@ -148,7 +148,7 @@ main {
 }
 
 #intro-text .learn-more:hover {
-    background-color: rgba(25, 153, 153, 0.7);
+    background-color: rgba(19, 124, 124, 0.7);
 }
 
 .learn-more {
@@ -158,13 +158,13 @@ main {
     font-family: inherit;
     padding: 5px;
     margin: 5px;
-    border: 2px solid rgb(81, 81, 89, 0.7);
+    border: 2px solid rgb(69, 68, 75, 0.7);
     font-weight: 500;
 }
 
 /**** Footer ****/
 #our-social-web {
-    background-color: #199999;
+    background-color: #137C7C;
     border-top: 2px solid rgb(81, 81, 89, 0.7);
     text-align: center;
     padding: 10px 0;
