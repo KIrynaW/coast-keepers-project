@@ -131,7 +131,7 @@ main {
     background-color:rgba(234,181,165,.7);
     font-size: 120%;
     position: absolute;
-    bottom: 40px;
+    bottom: 80px;
     /* Makr the into-text stick to the left of the page */
     width: 85%;
     right: 5px;
@@ -260,7 +260,7 @@ main {
 /*** Main Content ***/
 /* Hero Section */
     #intro-text {
-        width:400px;
+        width:350px;
         right:10px;
         bottom:100px;
         padding:20px;
