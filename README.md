@@ -111,6 +111,9 @@ The website is responsive on all screen types: Phones, Tablets and Laptops.
 ![Wireframe of Sign Up page for laptop screens](docs/wireframes/signup_%20laptop_screens.jpg)
 
 #### *Color Scheme:*
+![Color Scheme chosen for the project](docs/readme-images/project-color-scheme.jpg)
+![All color scheme colors in contrast](docs/readme-images/all-contrasts.jpg)
+![Best contrasting colors for project](docs/readme-images/best-contrast.jpg)
 #### *Fonts:*
 
 ## **Implementation Phase:**
