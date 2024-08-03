@@ -132,8 +132,8 @@ main {
     position: absolute;
     bottom: 20%;
     /* Makr the into-text stick to the left of the page */
-    width: 60%;
-    margin-left: 40%;
+    width: 65%;
+    margin-left: 30%;
     margin-right: 5%;
     padding: 10px;
     min-height: 100px;
@@ -149,11 +149,12 @@ main {
 
 #intro-text .learn-more:hover {
     background-color: rgba(19, 124, 124, 0.7);
+    color: #ffffff;
 }
 
 .learn-more {
     background-color: #ffffff;
-    color: #525159;
+    color: #45444b;
     border-radius: 4px;
     font-family: inherit;
     padding: 5px;
@@ -204,7 +205,7 @@ main {
 /* For tablets and larger screens (768px and up) */
 @media screen and (min-width: 768px) {
 
-    /* Header */
+    /*** Header ***/
     nav {
         display: block;
         position: relative;
@@ -227,18 +228,47 @@ main {
     }
 
     #logo {
-        font-size: 180%;
+        font-size: 200%;
         line-height: 50px;
         margin: 0 0.5rem;
+    }
+
+    /*** Main Content ***/
+    #intro-text {
+        width:fit-content;
+        margin-left:60%;
+        margin-right:5%;
+        padding:10px;
+
     }
 }
 
 /* For laptops and desctop screens (992px and up) */
 @media screen and (min-width: 992px) {
+    
+    /*** Header ***/
     #menu a:hover {
         /* Created a 2 color gradient for visual interest */
         background: linear-gradient(to top, #eab5a5 40%, transparent 35%);
 
+    }
+
+    #logo {
+        font-size: 2.5rem;
+    }
+
+/*** Main Content ***/
+    #intro-text {
+        width:fit-content;
+        margin-left:60%;
+        margin-right:5%;
+        padding:20px;
+        font-size: 1.5rem;
+
+    }
+
+    .learn-more {
+        font-size: 1rem;
     }
 
 }
