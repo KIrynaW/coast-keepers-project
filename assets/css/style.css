@@ -217,12 +217,12 @@ main {
 
 #video {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #video iframe {
     margin-top: 0;
-    justify-content: center;
-    align-items: center;
     padding: 15px;
     width: 100%;
     border:0;
