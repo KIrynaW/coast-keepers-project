@@ -132,7 +132,7 @@ main {
     font-size: 120%;
     position: absolute;
     bottom: 80px;
-    /* Makr the into-text stick to the left of the page */
+    /* Make the into-text stick to the left of the page */
     width: 85%;
     right: 5px;
     padding: 10px;
@@ -167,10 +167,10 @@ main {
 #mission {
     text-align: center;
     border: 2px solid #eab5a5;
-    font-size: 100%;
+    font-size: 120%;
     width:inherit;
-    margin: 30px 5px 0 5px;
-    padding:5px 10px;
+    margin: 30px;
+    padding:30px 20px 25px 20px;
     border-radius: 20px;
     
 }
@@ -184,14 +184,32 @@ main {
 }
 
 .intro-snaps {
-    margin:40px;
+    margin:30px;
 
 }
 .intro-snaps > img {
     /* Makes the image round */
     border-radius: 50%;
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 300px;
+    max-height: 300px;
+    box-shadow: 2px 3px 3px #45444b, 2px 3px 3px #eab5a5;
+}
+
+.snap-text {
+    border:2px solid #137C7C;
+    background-color: #ffffff;
+    border-radius: 20px;
+    max-width: 300px;
+    max-height: 300px;
+    text-align: center;
+    align-items: center;
+    padding: 40px 20px 40px 20px;
+    margin-top: -30px;
+    font-size: 100%;  
+}
+
+.snap-text p {
+    font-size: 120%;
 }
 
 
