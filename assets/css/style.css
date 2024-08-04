@@ -147,11 +147,6 @@ main {
     font-size: 150%;
 }
 
-#intro-text .learn-more:hover {
-    background-color: rgba(19, 124, 124, 0.7);
-    color: #ffffff;
-}
-
 .learn-more {
     background-color: #ffffff;
     color: #45444b;
@@ -160,7 +155,17 @@ main {
     padding: 5px;
     margin: 5px;
     border: 2px solid rgb(69, 68, 75, 0.7);
-    font-weight: 500;
+    font-weight: 600;
+}
+
+.learn-more > a {
+    text-decoration: none;
+    color: #45444b;
+}
+
+.learn-more:hover {
+    background-color: rgba(19, 124, 124, 0.7);
+    color: #ffffff;
 }
 
 /* Mission Section */
