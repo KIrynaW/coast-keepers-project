@@ -163,6 +163,38 @@ main {
     font-weight: 500;
 }
 
+/* Mission Section */
+#mission {
+    text-align: center;
+    border: 2px solid #eab5a5;
+    font-size: 100%;
+    width:inherit;
+    margin: 30px 5px 0 5px;
+    padding:5px 10px;
+    border-radius: 20px;
+    
+}
+/* Activities Outline and Images*/
+#intro-activities {
+    display: flex;
+    /* Make sure the image placing is responsive to all screens */
+    flex-wrap: wrap;
+    justify-content:center;
+    text-align:justify;
+}
+
+.intro-snaps {
+    margin:40px;
+
+}
+.intro-snaps > img {
+    /* Makes the image round */
+    border-radius: 50%;
+    max-width: 250px;
+    max-height: 250px;
+}
+
+
 /**** Footer ****/
 #our-social-web {
     background-color: #137C7C;
