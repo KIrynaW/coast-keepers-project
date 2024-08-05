@@ -221,6 +221,7 @@ main {
     font-size: 120%;
 }
 
+/* Video Section */
 #video {
     display: flex;
     justify-content: center;
@@ -285,7 +286,7 @@ main {
 @media screen and (min-width: 425px) {
 
     /*** Main Content ***/
-    /* Activities Outline and Images*/
+    /* Video Section */
     #video iframe {
         min-width: 410px;
         min-height: 245px;
@@ -331,7 +332,7 @@ main {
         padding: 20px;
     }
 
-    /* Activities Outline and Images*/
+    /* video Section */
     #video iframe {
         min-width: 700px;
         min-height: 405px;
@@ -375,6 +376,7 @@ main {
         margin-left: 20%;
     }
 
+    /* Video Section */
     #video iframe {
         min-width: 980px;
         min-height: 565px;
