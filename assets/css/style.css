@@ -439,29 +439,36 @@ main {
 #about-details {
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-between;
-    margin-top: 20px;
+    justify-content:center;
 
 }
 
-#about-photo {
-    text-align: left;
-}
 
 #about-photo > img {
-    max-width: 300px;
-    margin-left: 20px;
+    max-width: 100%;
+    object-fit: cover;
     border-radius: 20px;
 }
 
 #about-text {
     text-align: left;
-    flex-basis: 400px;
+    flex-basis: 300px;
     flex-grow: 1;
-    max-width: 100%;
-    margin: 20px 60px 20px 20px;
+    max-width: 780px;
+    object-fit: cover;
     padding: 20px;
     border: 2px solid #eab5a5;
     border-radius: 20px;
+    font-size: 150%;
 }
 
+/*+++++ Media Responsivness +++++*/
+
+/* For tablets and larger phone screens (768px and up) */
+@media screen and (min-width: 768px) {
+
+/*** Main Content ***/
+/* About Organisers Section */
+
+
+}
