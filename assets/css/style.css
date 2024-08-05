@@ -21,7 +21,9 @@ body {
     background-color: #e7dedb;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: "Bebas Neue", serif;
     font-size: 130%;
     font-weight: 600;
@@ -128,7 +130,7 @@ main {
 }
 
 #intro-text {
-    background-color:rgba(234,181,165,.7);
+    background-color: rgba(234, 181, 165, .7);
     font-size: 120%;
     position: absolute;
     bottom: 80px;
@@ -137,10 +139,10 @@ main {
     right: 5px;
     padding: 10px;
     min-height: 100px;
-    text-align:right;
+    text-align: right;
     /* Make the corners rounded */
     border-radius: 20px;
-    
+
 }
 
 #intro-text h3 {
@@ -158,7 +160,7 @@ main {
     font-weight: 600;
 }
 
-.learn-more > a {
+.learn-more>a {
     text-decoration: none;
     color: #45444b;
 }
@@ -173,26 +175,28 @@ main {
     text-align: center;
     border: 2px solid #eab5a5;
     font-size: 120%;
-    width:inherit;
+    width: inherit;
     margin: 30px;
-    padding:30px 20px 25px 20px;
+    padding: 30px 20px 25px 20px;
     border-radius: 20px;
-    
+
 }
+
 /* Activities Outline and Images*/
 #intro-activities {
     display: flex;
     /* Make sure the image placing is responsive to all screens */
     flex-wrap: wrap;
-    justify-content:center;
-    text-align:justify;
+    justify-content: center;
+    text-align: justify;
 }
 
 .intro-snaps {
-    margin:30px;
+    margin: 30px;
 
 }
-.intro-snaps > img {
+
+.intro-snaps>img {
     /* Makes the image round */
     border-radius: 50%;
     max-width: 300px;
@@ -202,7 +206,7 @@ main {
 }
 
 .snap-text {
-    border:2px solid #137C7C;
+    border: 2px solid #137C7C;
     background-color: #ffffff;
     /* Rounded edges */
     border-radius: 20px;
@@ -213,7 +217,7 @@ main {
     padding: 40px 20px 40px 20px;
     /* Creates an overlap-the image covers the top of text border */
     margin-top: -30px;
-    font-size: 100%;  
+    font-size: 100%;
 }
 
 .snap-text p {
@@ -229,11 +233,13 @@ main {
 #video iframe {
     margin-top: 0;
     padding: 15px;
-    width: 100%;
-    border:0;
+    min-width: 310px;
+    min-height: 200px;
+    border: 0;
 
 }
-#video  h3 {
+
+#video h3 {
     margin-top: 10px;
     padding: 10px;
     letter-spacing: 2px;
@@ -277,6 +283,18 @@ main {
 
 
 /*+++++ Media Responsivness +++++*/
+
+/* For large phone screens (425px and up) */
+@media screen and (min-width: 425px) {
+
+    /*** Main Content ***/
+    /* Activities Outline and Images*/
+    #video iframe {
+        min-width: 410px;
+        min-height: 245px;
+    }
+}
+
 /* For tablets and larger screens (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -311,16 +329,22 @@ main {
     /*** Main Content ***/
     /* Hero Section */
     #intro-text {
-        width:300px;
-        right:10px;
-        padding:20px;
+        width: 300px;
+        right: 10px;
+        padding: 20px;
+    }
+
+    /* Activities Outline and Images*/
+    #video iframe {
+        min-width: 700px;
+        min-height: 405px;
 
     }
 }
 
 /* For laptops and desctop screens (992px and up) */
 @media screen and (min-width: 992px) {
-    
+
     /*** Header ***/
     #menu a:hover {
         /* Created a 2 color gradient for visual interest */
@@ -332,13 +356,13 @@ main {
         font-size: 2.5rem;
     }
 
-/*** Main Content ***/
-/* Hero Section */
+    /*** Main Content ***/
+    /* Hero Section */
     #intro-text {
-        width:350px;
-        right:10px;
-        bottom:100px;
-        padding:20px;
+        width: 350px;
+        right: 10px;
+        bottom: 100px;
+        padding: 20px;
         font-size: 1.5rem;
 
     }
@@ -347,6 +371,17 @@ main {
         font-size: 1rem;
     }
 
+    /* Activities Outline and Images*/
+    #mission {
+        width: 60%;
+        text-align: center;
+        margin-left: 20%;
+    }
+
+    #video iframe {
+        min-width: 980px;
+        min-height: 565px;
+    }
 }
 
 
