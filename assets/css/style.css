@@ -193,7 +193,11 @@ main {
 }
 
 .intro-snaps {
-    margin: 20px 35px;
+    text-align: center;
+    margin: 15px;
+    flex-basis: 300px;
+    flex-grow: 1;
+    max-width: 400px;
 
 }
 
@@ -211,13 +215,10 @@ main {
     background-color: #ffffff;
     /* Rounded edges */
     border-radius: 20px;
-    max-width: 300px;
-    max-height: 300px;
     text-align: center;
-    align-items: center;
     padding: 40px 20px 40px 20px;
     /* Creates an overlap-the image covers the top of text border */
-    margin-top: -30px;
+    margin: -30px 30px 10px 30px;
     font-size: 100%;
 }
 
@@ -384,11 +385,6 @@ main {
         margin-left: 20%;
     }
 
-    /* Activities Outline and Images*/
-    .intro-snaps {
-        margin: 20px 60px;
-
-    }
 
     /* Video Section */
     #video h3 {
@@ -405,11 +401,6 @@ main {
 @media screen and (min-width: 1400px) {
 
     /*** Main Content ***/
-    /* Activities Outline and Images*/
-    .intro-snaps {
-        margin: 30px 70px;
-
-    }
 
     /* Video Content */
     #video iframe {
@@ -429,10 +420,6 @@ main {
         margin-left: 30%;
     }
 
-    /* Activities Outline and Images*/
-    .intro-snaps {
-        margin: 40px 30px;
-    }
 
     #video iframe {
         min-width: 2160px;
@@ -443,3 +430,15 @@ main {
 
 /*======================= End of Styles for Index Page and All Headers + Footers =======================*/
 /*======================================================================================================*/
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>> Styles for About Page <<<<<<<<<<<<<<<<<<<<<<<<*/
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<*/
+
+/*** Main Content ***/
+/* About Organisers Section */
+#about-details {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
