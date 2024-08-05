@@ -291,6 +291,10 @@ main {
 
     /*** Main Content ***/
     /* Video Section */
+    #video h3 {
+        font-size: 150%;
+    }
+
     #video iframe {
         min-width: 410px;
         min-height: 245px;
@@ -338,8 +342,8 @@ main {
 
     /* Video Section */
     #video iframe {
-        min-width: 700px;
-        min-height: 405px;
+        min-width: 760px;
+        min-height: 440px;
 
     }
 }
@@ -387,20 +391,30 @@ main {
     }
 
     /* Video Section */
+    #video h3 {
+        font-size: 200%;
+    }
+
     #video iframe {
         min-width: 980px;
         min-height: 565px;
     }
 }
 
-/* For large laptops and desktop screens (1700px and up) */
-@media screen and (min-width: 1700px) {
+/* For large laptops and desktop screens (1400px and up) */
+@media screen and (min-width: 1400px) {
 
     /*** Main Content ***/
     /* Activities Outline and Images*/
     .intro-snaps {
         margin: 30px 70px;
 
+    }
+
+    /* Video Content */
+    #video iframe {
+        min-width: 1400px;
+        min-height: 800px;
     }
 }
 
@@ -418,6 +432,11 @@ main {
     /* Activities Outline and Images*/
     .intro-snaps {
         margin: 40px 30px;
+    }
+
+    #video iframe {
+        min-width: 2160px;
+        min-height: 1230px;
     }
 }
 
