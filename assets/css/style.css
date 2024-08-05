@@ -158,9 +158,6 @@ main {
     margin: 5px;
     border: 2px solid rgb(69, 68, 75, 0.7);
     font-weight: 600;
-}
-
-.learn-more>a {
     text-decoration: none;
     color: #45444b;
 }
