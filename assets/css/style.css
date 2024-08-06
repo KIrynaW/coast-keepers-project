@@ -436,7 +436,7 @@ main {
 
 /*** Main Content ***/
 /* About Organisers Section */
-#about-details {
+#about-us {
     display: flex;
     flex-wrap: wrap;
     justify-content:center;
@@ -446,29 +446,38 @@ main {
 
 #about-photo > img {
     max-width: 100%;
-    object-fit: cover;
     border-radius: 20px;
+    height: auto;
+    margin-top: 10px;
+
 }
 
 #about-text {
     text-align: left;
+    /* To make sure the text overflows right */
     flex-basis: 300px;
     flex-grow: 1;
+    /* to cover the width of the image */
     max-width: 780px;
     object-fit: cover;
     padding: 20px;
     border: 2px solid #eab5a5;
     border-radius: 20px;
-    font-size: 150%;
+    font-size: 140%;
+    margin: 10px;
 }
 
 /*+++++ Media Responsivness +++++*/
 
-/* For tablets and larger phone screens (768px and up) */
-@media screen and (min-width: 768px) {
+/* For large laptops and desktop screens (1440px and up) */
+@media screen and (min-width: 1440px) {
 
 /*** Main Content ***/
 /* About Organisers Section */
+#about-text {
+    padding: 50px 30px;
+    font-size: 160%;
+}
 
 
 }
