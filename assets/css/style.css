@@ -480,6 +480,10 @@ main {
     padding: 5px;
 }
 
+#reasons p {
+    line-height: 25px;
+}
+
 #reasons hr {
     border-top: 1px solid #ffffff;
     margin: 10px 0;
@@ -565,13 +569,19 @@ main {
 @media screen and (min-width: 1200px) {
 
     /* Reasons Section */
+    #why-join {
+        max-width: 80%;
+        margin: 0 10%;
+    
+    }
+
     #health,
     #ecology {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         text-align: center;
-        width: 60%;
+        width: 70%;
         margin: 0 40px;
     }
 
@@ -591,14 +601,12 @@ main {
     
 
     #img-top > img {
-        margin-left: 50%;
-        margin-top: 20%;
+        margin-top: 30%;
 
     }
 
     #img-bottom > img {
-        margin-top: 20%;
-        margin-right: 50%;
+        margin-top: 30%;
     }
 }
 
