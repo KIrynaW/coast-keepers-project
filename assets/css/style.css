@@ -443,7 +443,6 @@ main {
 
 }
 
-
 #about-photo > img {
     max-width: 100%;
     border-radius: 20px;
@@ -467,12 +466,50 @@ main {
     margin: 10px;
 }
 
-/* Reason Section */
+/* Reasons Section */
 #reasons {
     width: 90%;
     margin: 20px auto;
     align-items: center;
 }
+
+#reasons h2 {
+    text-align: center;
+    font-size: 230%;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+#reasons hr {
+    border-top: 1px solid #ffffff;
+    margin: 10px 0;
+}
+
+#outline {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+#outline p {
+    padding: 10px;
+    max-width: 900px;
+}
+
+#outline hr {
+    border-top: 1px solid #137C7C;
+    margin: 5px 0;
+}
+
+#health > div, #ecology > div {
+    line-height: 20px;
+    padding: 15px;
+    margin: 30px 10px;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+
 #why-join {
     text-align: center;
     background-color: rgba(19, 124, 124, 0.7);
@@ -482,11 +519,22 @@ main {
     border-radius: 20px;
     
 }
-#outline {
+
+
+.outline-img {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    text-align: center;
+    justify-content:center;
+    margin: 20px;
+}
+
+.outline-img > img {
+    height: 90vw;
+    width: 90vw;
+    /* Make the square circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    box-shadow: 2px 3px 2px #45444b, 3px 5px 2px #eab5a5;
 }
 
 /*+++++ Media Responsivness +++++*/
