@@ -539,6 +539,31 @@ main {
 
 /*+++++ Media Responsivness +++++*/
 
+/* For tablets and larger screens (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Reasons Section */
+
+    #reasons p {
+        font-size: 120%;
+    }
+    
+    #health, #ecology {
+        display: flex;
+        flex-direction: colum;
+        width:100%
+    }
+
+    #health > div, #ecology > div {
+        width: 75%;
+    }
+    
+
+
+
+
+}
+
+
 /* For large laptops and desktop screens (1440px and up) */
 @media screen and (min-width: 1440px) {
 
@@ -549,5 +574,6 @@ main {
     font-size: 160%;
 }
 
-
 }
+
+
