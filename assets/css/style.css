@@ -439,11 +439,11 @@ main {
 #about-us {
     display: flex;
     flex-wrap: wrap;
-    justify-content:center;
+    justify-content: center;
 
 }
 
-#about-photo > img {
+#about-photo>img {
     max-width: 100%;
     border-radius: 20px;
     height: auto;
@@ -502,7 +502,8 @@ main {
     margin: 5px 0;
 }
 
-#health > div, #ecology > div {
+#health>div,
+#ecology>div {
     line-height: 20px;
     padding: 15px;
     margin: 30px 10px;
@@ -517,17 +518,17 @@ main {
     padding: 30px;
     width: 100%;
     border-radius: 20px;
-    
+
 }
 
 
-.outline-img {
+#img-top, #img-bottom {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     margin: 20px;
 }
 
-.outline-img > img {
+#img-top>img, #img-bottom>img {
     height: 90vw;
     width: 90vw;
     /* Make the square circle */
@@ -546,34 +547,55 @@ main {
     #reasons p {
         font-size: 120%;
     }
-    
-    #health, #ecology {
+
+    #health,
+    #ecology {
         display: flex;
         flex-direction: colum;
-        width:100%
+        width: 100%
     }
 
-    #health > div, #ecology > div {
+    #health>div,
+    #ecology>div {
         width: 75%;
     }
-    
-
-
-
 
 }
 
+/* For laptop and desktop screens (1200px and up) */
+@media screen and (min-width: 1200px) {
+
+    /* Reasons Section */
+    #health,
+    #ecology {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        width: 60%;
+        margin: 0 40px;
+    }
+
+    #img-top > img {
+        margin-left: 50%;
+        margin-top: 20%;
+
+    }
+
+    #img-bottom > img {
+        margin-top: 20%;
+        margin-right: 50%;
+    }
+}
 
 /* For large laptops and desktop screens (1440px and up) */
 @media screen and (min-width: 1440px) {
 
-/*** Main Content ***/
-/* About Organisers Section */
-#about-text {
-    padding: 50px 30px;
-    font-size: 160%;
-}
+    /*** Main Content ***/
+    /* About Organisers Section */
+    #about-text {
+        padding: 50px 30px;
+        font-size: 160%;
+    }
 
 }
-
-
