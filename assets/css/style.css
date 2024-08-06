@@ -490,6 +490,7 @@ main {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+    margin-top: 20px;
 }
 
 #outline p {
@@ -505,8 +506,8 @@ main {
 #health>div,
 #ecology>div {
     line-height: 20px;
-    padding: 15px;
-    margin: 30px 10px;
+    padding: 20px;
+    margin: 20px 10px;
     border-radius: 20px;
     background-color: #ffffff;
 }
@@ -521,11 +522,9 @@ main {
 
 }
 
-
 #img-top, #img-bottom {
     display: flex;
     justify-content: center;
-    margin: 20px;
 }
 
 #img-top>img, #img-bottom>img {
@@ -576,6 +575,21 @@ main {
         margin: 0 40px;
     }
 
+    #health > div, #ecology > div {
+        padding-top: 30px;
+    }
+
+    #health p, #health h3 {
+        text-align: right;
+
+    }
+
+    #ecology p, #ecology h3 {
+        text-align: left;
+
+    }
+    
+
     #img-top > img {
         margin-left: 50%;
         margin-top: 20%;
@@ -596,6 +610,27 @@ main {
     #about-text {
         padding: 50px 30px;
         font-size: 160%;
+    }
+
+    /* Reasons Section */
+    #img-top > img {
+        margin-left: 50%;
+        margin-bottom: 20%;
+
+    }
+
+    #img-bottom > img {
+        margin-bottom: 20%;
+        margin-right: 50%;
+    }
+
+    #health, #ecology {
+        margin: 0;
+
+    }
+
+    #health > div, #ecology > div {
+        max-width: 900px;
     }
 
 }
