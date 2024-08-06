@@ -511,7 +511,7 @@ main {
 #ecology>div {
     line-height: 20px;
     padding: 20px;
-    margin: 20px 10px;
+    margin: 15px;
     border-radius: 20px;
     background-color: #ffffff;
 }
@@ -526,12 +526,15 @@ main {
 
 }
 
-#img-top, #img-bottom {
+#img-top,
+#img-bottom {
     display: flex;
     justify-content: center;
+    margin:15px 0;
 }
 
-#img-top>img, #img-bottom>img {
+#img-top>img,
+#img-bottom>img {
     height: 90vw;
     width: 90vw;
     /* Make the square circle */
@@ -571,41 +574,43 @@ main {
     #why-join {
         max-width: 80%;
         margin: 0 10%;
-    
+
     }
 
     #health,
     #ecology {
         display: flex;
-        flex-wrap: wrap;
         justify-content: center;
         text-align: center;
         width: 70%;
-        margin: 0 40px;
+        margin: 20px;
     }
 
-    #health > div, #ecology > div {
-        padding-top: 30px;
+    #health>div,
+    #ecology>div {
+        padding-top: 40px;
     }
 
-    #health p, #health h3 {
+    #health p,
+    #health h3 {
         text-align: right;
 
     }
 
-    #ecology p, #ecology h3 {
+    #ecology p,
+    #ecology h3 {
         text-align: left;
 
     }
-    
 
-    #img-top > img {
-        margin-top: 30%;
+
+    #img-top>img {
+        margin: 20px 0;
 
     }
 
-    #img-bottom > img {
-        margin-top: 30%;
+    #img-bottom>img {
+        margin: 20px 0;
     }
 }
 
@@ -620,24 +625,18 @@ main {
     }
 
     /* Reasons Section */
-    #img-top > img {
-        margin-left: 50%;
-        margin-bottom: 20%;
+    #img-top>img {
+        margin: 0 20px;
 
     }
 
-    #img-bottom > img {
-        margin-bottom: 20%;
-        margin-right: 50%;
+    #img-bottom>img {
+        margin: 0 20px;
     }
 
-    #health, #ecology {
-        margin: 0;
+        #health>div,
+        #ecology>div {
+            max-width: 900px;
+        }
 
     }
-
-    #health > div, #ecology > div {
-        max-width: 900px;
-    }
-
-}
