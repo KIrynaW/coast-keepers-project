@@ -453,7 +453,7 @@ main {
 
 #about-text {
     text-align: left;
-    /* To make sure the text overflows right */
+    /* To make sure the text overflows right to cover available space */
     flex-basis: 300px;
     flex-grow: 1;
     /* to cover the width of the image */
@@ -649,3 +649,31 @@ main {
 
 /*** Main Content ***/
 /* Schedule Section */
+#schedule h2 {
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+#season-schedule {
+    background: url("../images/nunsbeach-stretched.webp") no-repeat center/cover;
+    /* Flex adds responsivity */
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#season-schedule div {
+    color: #ffffff;
+    background-color: rgba(69, 68, 75, 0.7);
+    padding: 15px;
+    text-align: center;
+    /* divs will expand to take up leftover space */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* creates a divide between divs */
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+
+}
