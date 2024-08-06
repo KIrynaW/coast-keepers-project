@@ -554,7 +554,6 @@ main {
     #health,
     #ecology {
         display: flex;
-        flex-direction: colum;
         width: 100%
     }
 
