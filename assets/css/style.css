@@ -530,7 +530,7 @@ main {
 #img-bottom {
     display: flex;
     justify-content: center;
-    margin:15px 0;
+    margin: 15px 0;
 }
 
 #img-top>img,
@@ -634,12 +634,12 @@ main {
         margin: 0 20px;
     }
 
-        #health>div,
-        #ecology>div {
-            max-width: 900px;
-        }
-
+    #health>div,
+    #ecology>div {
+        max-width: 900px;
     }
+
+}
 
 /*======================= End of About Page Styles =======================*/
 /*========================================================================*/
@@ -653,6 +653,7 @@ main {
     padding: 20px;
     margin-top: 20px;
     text-align: center;
+    font-size: 200%;
 
 }
 
@@ -679,7 +680,11 @@ main {
 }
 
 /* Location Section */
-#location h3, h4 {
+#location {
+    padding-top: 40px;
+}
+
+#location>h3, #location h4 {
     text-align: center;
     margin: 20px 10px 5px 10px;
     color: #137C7C;
@@ -714,3 +719,62 @@ main {
     max-height: 600px;
     border-radius: 20px;
 }
+
+/*+++++ Media Responsivness +++++*/
+
+/* For tablets and larger screens (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* Main Content */
+    /* Location Section */
+    #location {
+        font-size: 140%;
+        margin: 40px 30px ;
+        padding: 10px;
+    }
+
+    #location h3 {
+        font-size: 140%;
+    }
+
+    #location h4 {
+        font-size: 110%
+    }
+
+}
+
+/* For laptops and desctop screens (992px and up) */
+@media screen and (min-width: 992px) {
+
+    /* Main Content */
+    /* Location Section */
+
+    #location {
+        padding-left: 30px;
+    }
+
+    #location-container div {
+        margin-top: 30px;
+    }
+
+    #location h3 {
+        font-size: 160%;
+    }
+
+    #location h4 {
+        font-size: 130%
+    }
+
+    #address>h4 {
+        text-align: right;
+    }
+
+    #address p { 
+        font-size: 110%;
+        text-align: right;
+
+    }
+
+}
+
+
