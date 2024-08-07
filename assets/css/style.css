@@ -728,18 +728,10 @@ main {
     /* Main Content */
     /* Location Section */
     #location {
-        font-size: 140%;
         margin: 40px 30px ;
         padding: 10px;
     }
 
-    #location h3 {
-        font-size: 140%;
-    }
-
-    #location h4 {
-        font-size: 110%
-    }
 
 }
 
@@ -758,21 +750,16 @@ main {
     }
 
     #location h3 {
-        font-size: 160%;
+        font-size: 150%;
     }
 
     #location h4 {
-        font-size: 130%
+        font-size: 120%
     }
 
-    #address>h4 {
+    #address>h4, #address p {
         text-align: right;
-    }
-
-    #address p { 
         font-size: 110%;
-        text-align: right;
-
     }
 
 }
