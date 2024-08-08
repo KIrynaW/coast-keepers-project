@@ -945,3 +945,22 @@ input::placeholder {
 
 /*======================= End of SignUp Page Styles =======================*/
 /*===========================================================================*/
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>> Submit Feedback Page Styles<<<<<<<<<<<<<<<<<<<<<<<<*/
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<*/
+
+/*** Main Content ***/
+/* Submit Form Section */
+#feedback-section {
+    font-size: 200%;
+    text-align: center;
+    margin: 20% 10%;
+}
+#feedback-section div {
+    max-width: 2000px;
+    align-items: center;
+
+}
+
+/*======================= End of Submit Feedback Page Styles =======================*/
+/*===========================================================================*/
