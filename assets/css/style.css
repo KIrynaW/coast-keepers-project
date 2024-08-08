@@ -119,6 +119,9 @@ main {
     /* Increase the main section to push the footer down */
     flex: 1 0 auto;
     margin-top: 79px;
+    /*Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
 }
 
 /* Hero image */
@@ -815,3 +818,29 @@ main {
 
     }
 }
+
+/*======================= End of Schedule Page Styles =======================*/
+/*===========================================================================*/
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>> SignUp Page Styles<<<<<<<<<<<<<<<<<<<<<<<<*/
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<*/
+
+/* Form Section */
+#sign-up {
+    background-image: url("../images/signup-image.webp");
+    background-size: cover;
+    background-position: 70%;
+    padding: 30px 10% 0 10%;
+    flex-grow: 1;
+}
+
+
+
+
+
+
+/*+++++ Media Responsivness +++++*/
+
+/*======================= End of SignUp Page Styles =======================*/
+/*===========================================================================*/
+
