@@ -684,7 +684,8 @@ main {
     padding-top: 40px;
 }
 
-#location>h3, #location h4 {
+#location>h3,
+#location h4 {
     text-align: center;
     margin: 20px 10px 5px 10px;
     color: #137C7C;
@@ -728,7 +729,7 @@ main {
     /* Main Content */
     /* Location Section */
     #location {
-        margin: 40px 30px ;
+        margin: 40px 30px;
         padding: 10px;
     }
 
@@ -742,7 +743,7 @@ main {
     /* Location Section */
 
     #location {
-        padding-left: 30px;
+        align-items: center;
     }
 
     #location-container div {
@@ -757,11 +758,60 @@ main {
         font-size: 120%
     }
 
-    #address>h4, #address p {
+    #address>h4,
+    #address p {
         text-align: right;
         font-size: 110%;
     }
 
 }
 
+/* For laptop and desktop screens (1200px and up) */
+@media screen and (min-width: 1200px) {
+    /* Main Content */
+    /* Location Section */
 
+    #location {
+        align-items: center;
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    #address {
+        max-width: 300px;
+
+    }
+
+    #map {
+        text-align: left;
+    }
+}
+
+/* For large laptops and desktop screens (1440px and up) */
+@media screen and (min-width: 1440px) {
+
+    /* Main Content */
+    /* Location Section */
+    #location {
+        align-items: center;
+    }
+}
+
+
+/* For largest screen sizes (2000px ) */
+@media screen and (min-width: 2000px) {
+
+    /* Main Content */
+    /* Location Section */
+    #location {
+        align-items: center;
+        width: 70%;
+        margin-left:15%;
+    }
+
+    #location-container {
+        align-items: center;
+        padding-left: 20%;
+
+    }
+}
