@@ -809,7 +809,7 @@ main {
     #location {
         align-items: center;
         width: 70%;
-        margin-left:15%;
+        margin-left: 15%;
     }
 
     #location-container {
@@ -850,7 +850,7 @@ main {
     border-radius: 10px;
 }
 
-#form-container > h2 {
+#form-container>h2 {
     color: rgba(234, 181, 165, .7);
     margin-bottom: 20px;
 }
@@ -888,31 +888,60 @@ input::placeholder {
 }
 
 .checkbox-options div {
-    padding:3px 5px;
+    padding: 3px 5px;
 }
 
-.submit-button, .reset-button {
+.submit-button,
+.reset-button {
     font-size: 100%;
     background-color: rgba(19, 124, 124, 0.7);
-    margin:20px 5px ;
+    margin: 20px 5px;
     color: #ffffff;
     padding: 10px 20px;
     border: 2px outset #e7dedb;
 }
 
-.submit-button:hover, .reset-button:hover {
+.submit-button:hover,
+.reset-button:hover {
     background-color: #e7dedb;
     color: #45444b;
     border: 2px double #45444b;
 }
 
 
-
-
-
-
 /*+++++ Media Responsivness +++++*/
+/* For tablets and larger screens (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* Main Content */
+    /* Form Section */
+    #sign-up {
+        background-position: center;
+        align-items: center;
+    }
+
+    #sign-up-form {
+        max-width: 450px;
+        margin: 20% 0 10% 15%;
+    }
+
+    .text-input:hover {
+        border-color: #ffffff;
+    }
+
+}
+
+/* For largest screen sizes (2000px ) */
+@media screen and (min-width: 2000px) {
+
+    /* Main Content */
+    /* Form Section */
+    #sign-up-form {
+        max-width: 700px;
+        margin: 10% 20%;
+    }
+
+}
 
 /*======================= End of SignUp Page Styles =======================*/
 /*===========================================================================*/
-
