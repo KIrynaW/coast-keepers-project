@@ -244,34 +244,39 @@ main {
     flex-grow: 1;
     justify-content: center;
     align-items: center;
+    
+}
+
+#video-text {
     border: 2px solid #eab5a5;
     border-radius: 20px;
     margin: 15px;
+    padding: 10px;
+    
 }
 
-#video h3 {
+#video-text > h3 {
     margin-top: 10px;
     padding: 5px;
     letter-spacing: 2px;
     text-align: center;
 }
 
-#video p {
-    padding: 0 20px;
-    margin-bottom: 10px;
+#video-text > p {
     text-align: center;
-    font-size: 120%;
     max-width: 800px;
 }
 
 #video iframe {
-    margin-top: 0;
-    padding: 15px;
+    margin: 10px;
+    padding: 5px;
     width: 98vw;
     height: 60vw;
     max-width: 960px;
     max-height: 550px;
     border: 0;
+    background-color: #ffffff;
+    border-radius: 5px;
 
 }
 
