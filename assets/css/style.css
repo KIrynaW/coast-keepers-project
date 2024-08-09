@@ -190,7 +190,6 @@ main {
 
 }
 
-/* Activities Outline and Images*/
 #intro-activities {
     display: flex;
     /* Make sure the image placing is responsive to all screens */
@@ -208,7 +207,7 @@ main {
 
 }
 
-.intro-snaps>img {
+.intro-snaps img {
     /* Makes the image round */
     border-radius: 50%;
     max-width: 300px;
