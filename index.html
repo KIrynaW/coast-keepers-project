@@ -30,7 +30,7 @@
         <input type="checkbox" id="nav-dropdown" name="nav_dropdown">
         <label for="nav-dropdown" class="nav-dropdown-label">
             <i class="fa-solid fa-water"></i>
-            <h2 class="hidden-text">Menu</h2>
+            <span class="hidden-text">Menu</span>
         </label>
         <nav>
             <ul id="menu">
@@ -50,7 +50,7 @@
                 <h2>Nurture your coastal environment with</h2>
                 <h3>Coast Keepers</h3>
                 <!-- Add a button that takes a user to About Page where they can learn more-->
-                <a href="about.html" class="learn-more">Learn More</a>
+                <a href="about.html" id="learn-more">Learn More</a>
 
             </div>
         </section>
@@ -100,7 +100,9 @@
                 </div>
             </div>
             <div class="intro-snaps">
-                <div><img src="assets/images/nuns-beach.webp" alt="Cliffs and beach in county Kerry"></div>
+                <div>
+                    <img src="assets/images/nuns-beach.webp" alt="Cliffs and beach in county Kerry">
+                </div>
                 <div class="snap-text">
                     <h3>Enjoy the Nature</h3>
                     <p>While taking part in our events, enjoy the beautiful scenery of Co. Kerry coasts</p>
@@ -125,9 +127,6 @@
                 </div>
 
             </div>
-
-        </section>
-        <section id="">
 
         </section>
         <section id="video">
@@ -176,7 +175,7 @@
             </li>
             <li class="join-us">
                 <!-- This link will take users to the sign up page -->
-                <a href="signup.html">
+                <a href="signup.html" target="_blank" aria-label="Brings you straight to our sign up page">
                     <h4>Join Us</h4>
                     <i class="fa-solid fa-people-group"></i>
                 </a>
