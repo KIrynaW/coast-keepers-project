@@ -830,7 +830,7 @@ main {
     background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 70%;
-    padding: 30px 10% 0 10%;
+    padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
 
@@ -838,8 +838,6 @@ main {
     color: #e7dedb;
     background-color: rgba(234, 181, 165, .6);
     padding: 20px;
-    margin-top: 70px;
-    margin-bottom: 50px;
     border-radius: 20px;
 }
 
@@ -852,7 +850,6 @@ main {
 
 #form-container>h2 {
     color: rgba(234, 181, 165, .7);
-    margin-bottom: 20px;
 }
 
 #form-container h4 {
@@ -921,8 +918,8 @@ input::placeholder {
     }
 
     #sign-up-form {
-        max-width: 450px;
-        margin: 20% 0 10% 15%;
+        max-width: 500px;
+        margin: 20px 0;
     }
 
     .text-input:hover {
