@@ -893,9 +893,14 @@ input::placeholder {
     color: rgba(234, 181, 165, 0.3)
 }
 
+input[type="radio"], input[type="checkbox"] {
+    margin: 5px;
+}
+
 .radio-options {
     width: 100%;
-    padding-top: 3px;
+    padding: 5px;
+    margin-left:10px ;
 
 }
 
@@ -903,11 +908,12 @@ input::placeholder {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+    padding: 5px;
     justify-content: left;
 }
 
 .checkbox-options div {
-    padding: 3px 5px;
+    padding: 3px 50px;
 }
 
 .submit-button,
