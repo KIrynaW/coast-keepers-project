@@ -68,7 +68,7 @@ header a {
 #logo {
     font-family: "Bebas Neue", serif;
     text-transform: uppercase;
-    font-size: 180%;
+    font-size: 160%;
     font-weight: 600;
     letter-spacing: 2px;
     color: #137C7C;
@@ -205,7 +205,7 @@ main {
 
 .intro-snaps {
     text-align: center;
-    margin: 15px;
+    margin: 20px;
     flex-basis: 300px;
     flex-grow: 1;
     max-width: 400px;
@@ -323,7 +323,7 @@ main {
     /*** Main Content ***/
     /* Video Section */
     #video h3 {
-        font-size: 150%;
+        font-size: 140%;
     }
 
 }
@@ -355,7 +355,7 @@ main {
     }
 
     #logo {
-        font-size: 200%;
+        font-size: 160%;
         line-height: 50px;
         margin: 0 0.5rem;
         padding: 10px;
@@ -458,20 +458,19 @@ main {
 }
 
 #about-photo>img {
-    max-width: 100%;
+    width: 90vw;
+    height: 60vw;
+    max-width: 800px;
+    max-height: 500px;
     border-radius: 20px;
-    height: auto;
     margin-top: 10px;
 
 }
 
 #about-text {
     text-align: left;
-    /* To make sure the text overflows right to cover available space */
-    flex-basis: 300px;
-    flex-grow: 1;
     /* to cover the width of the image */
-    max-width: 780px;
+    max-width: 800px;
     object-fit: cover;
     padding: 20px;
     border: 2px solid #eab5a5;
@@ -537,7 +536,7 @@ main {
     text-align: center;
     background-color: rgba(19, 124, 124, 0.7);
     color: #ffffff;
-    padding: 30px;
+    padding: 20px ;
     width: 100%;
     border-radius: 20px;
 
@@ -552,8 +551,8 @@ main {
 
 #img-top>img,
 #img-bottom>img {
-    height: 90vw;
-    width: 90vw;
+    height: 60vw;
+    width: 60vw;
     /* Make the square circle */
     border-radius: 50%;
     max-width: 300px;
