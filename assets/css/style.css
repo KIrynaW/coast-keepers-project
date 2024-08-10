@@ -416,6 +416,10 @@ main {
         margin-left: 20%;
     }
 
+    #mission, #intro-activities, #video {
+        line-height: 28px;
+    }
+
 
     /* Video Section */
     #video h3 {
@@ -573,7 +577,10 @@ main {
     #ecology>div {
         width: 75%;
     }
-
+/* About Section */
+#about-us {
+    line-height: 28px;
+}
 }
 
 /* For laptop and desktop screens (1200px and up) */
@@ -629,8 +636,8 @@ main {
     /*** Main Content ***/
     /* About Organisers Section */
     #about-text {
-        padding: 50px 30px;
-        font-size: 150%;
+        padding: 40px 30px;
+        
     }
 
     /* Reasons Section */
@@ -739,6 +746,7 @@ main {
     #location {
         margin: 40px 30px;
         padding: 10px;
+        line-height: 28px;
     }
 
 
