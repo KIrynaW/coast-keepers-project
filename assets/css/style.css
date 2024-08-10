@@ -19,6 +19,7 @@ body {
     font-family: "Barlow", sans-serif;
     font-weight: 500;
     background-color: #e7dedb;
+    font-size: 120%;
 }
 
 h1,
@@ -149,6 +150,7 @@ main {
     text-align: right;
     /* Make the corners rounded */
     border-radius: 20px;
+    margin-bottom: 3%;
 
 }
 
@@ -182,7 +184,6 @@ main {
 #mission {
     text-align: right;
     border: 2px solid #eab5a5;
-    font-size: 120%;
     width: inherit;
     margin: 50px 20px;
     padding: 30px 20px 25px 20px;
@@ -229,12 +230,9 @@ main {
     padding: 40px 20px 40px 20px;
     /* Creates an overlap-the image covers the top of text border */
     margin: -30px 30px 10px 30px;
-    font-size: 100%;
 }
 
-.snap-text p {
-    font-size: 120%;
-}
+
 
 /* Video Section */
 #video {
@@ -349,6 +347,7 @@ main {
     #menu>li {
         padding-left: 1rem;
         margin-bottom: 0;
+        letter-spacing: 2px;
     }
 
     .nav-dropdown-label {
@@ -359,6 +358,7 @@ main {
         font-size: 200%;
         line-height: 50px;
         margin: 0 0.5rem;
+        padding: 10px;
     }
 
     /*** Main Content ***/
@@ -379,6 +379,11 @@ main {
 @media screen and (min-width: 992px) {
 
     /*** Header ***/
+    #menu>li {
+        letter-spacing: 4px;
+        margin-right: 20px;
+    }
+
     #menu a:hover {
         /* Created a 2 color gradient for visual interest */
         background: linear-gradient(to top, #eab5a5 40%, transparent 35%);
@@ -414,7 +419,7 @@ main {
 
     /* Video Section */
     #video h3 {
-        font-size: 200%;
+        font-size: 180%;
     }
 }
 
@@ -467,8 +472,11 @@ main {
     padding: 20px;
     border: 2px solid #eab5a5;
     border-radius: 20px;
-    font-size: 140%;
     margin: 10px;
+}
+
+#about-text h2 {
+    margin: 5px;
 }
 
 /* Reasons Section */
@@ -480,7 +488,7 @@ main {
 
 #reasons h2 {
     text-align: center;
-    font-size: 230%;
+    font-size: 200%;
     margin-bottom: 5px;
     padding: 5px;
 }
@@ -555,10 +563,6 @@ main {
 @media screen and (min-width: 768px) {
     /* Reasons Section */
 
-    #reasons p {
-        font-size: 120%;
-    }
-
     #health,
     #ecology {
         display: flex;
@@ -626,7 +630,7 @@ main {
     /* About Organisers Section */
     #about-text {
         padding: 50px 30px;
-        font-size: 160%;
+        font-size: 150%;
     }
 
     /* Reasons Section */
@@ -658,7 +662,7 @@ main {
     padding: 20px;
     margin-top: 20px;
     text-align: center;
-    font-size: 200%;
+    font-size: 180%;
 
 }
 
@@ -700,7 +704,6 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    font-size: 120%;
     font-weight: 600;
     text-align: center;
     max-width: 100%;
@@ -760,13 +763,12 @@ main {
     }
 
     #location h4 {
-        font-size: 120%
+        font-size: 130%
     }
 
     #address>h4,
     #address p {
         text-align: right;
-        font-size: 110%;
     }
 
 }
