@@ -46,6 +46,7 @@
     <main>
         <section id="sign-up">
             <form id="sign-up-form" method="GET" action="submit-feedback.html">
+
                 <div id="form-container">
                     <h2>Fill out this form if we grabed your attention:</h2>
                     <!-- Genreal User Information -->
@@ -61,9 +62,10 @@
                     <input type="email" name="email_address" id="email-address" class="text-input" required
                         placeholder="Your Email" autocomplete="on">
                     <br>
+
                     <!-- User has to choose one to elaborate on interest-->
-                    <div class="radio-options">
-                        <h4>Select one:</h4>
+                    <fieldset class="radio-options">
+                        <legend>Select one:</legend>
                         <div>
                             <label for="interest-now">Join our team today</label>
                             <input type="radio" id="interest-now" name="express-interest" value="interest-now" required
@@ -79,11 +81,11 @@
                             <input type="radio" id="interest-learn" name="express-interest" value="interest-learn"
                                 required>
                         </div>
-                    </div>
+                    </fieldset>
                     <br>
                     <!-- Optional choices of even locations where a user can show interest in joining-->
-                    <div class="checkbox-options">
-                        <h4>Select if interested:</h4>
+                    <fieldset class="checkbox-options">
+                        <legend>Select if interested:</legend>
                         <div>
                             <label for="ballybunion">Ballybunion Beach</label>
                             <input type="checkbox" id="ballybunion" name="ballybunion" value="Ballybunion">
@@ -108,12 +110,14 @@
                             <label for="surf">Surf Together</label>
                             <input type="checkbox" id="surf" name="surf" value="Surf">
                         </div>
-                    </div>
-                
-                <input type="submit" class="submit-button" value="Submit">
-                <!-- User can reset a form if required-->
-                <input type="reset" class="reset-button" value="Reset">
-            </div>
+
+                    </fieldset>
+                    <input type="submit" class="submit-button" value="Submit">
+                    <!-- User can reset a form if required-->
+                    <input type="reset" class="reset-button" value="Reset">
+
+                </div>
+
             </form>
         </section>
     </main>
