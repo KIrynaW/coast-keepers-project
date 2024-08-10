@@ -464,7 +464,7 @@ main {
 
 #about-photo>img {
     width: 90vw;
-    height: 60vw;
+    height: 75vw;
     max-width: 600px;
     max-height: 450px;
     border-radius: 20px;
@@ -900,7 +900,6 @@ input[type="radio"], input[type="checkbox"] {
 .radio-options {
     width: 100%;
     padding: 5px;
-    margin-left:10px ;
 
 }
 
@@ -912,15 +911,17 @@ input[type="radio"], input[type="checkbox"] {
     justify-content: left;
 }
 
-.checkbox-options div {
-    padding: 3px 50px;
+.radio-options div, .checkbox-options div {
+    padding: 3px 5px;
+    margin-left: 10px;
 }
 
 .submit-button,
 .reset-button {
     font-size: 100%;
     background-color: rgba(19, 124, 124, 0.7);
-    margin: 20px 5px;
+    margin-top: 20px;
+    margin-right: 40px;
     color: #ffffff;
     padding: 10px 20px;
     border: 2px outset #e7dedb;
