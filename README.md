@@ -5,7 +5,7 @@ The Coast Keepers website is a place where the local community of environmentall
 
 ***(Designed by Iryna Walsh)***
 
-![Responsive Design]()
+![Responsive Design](docs/readme-images/ami-responsive.png)
 
 ## [View Coast Keepers Website](https://kirynaw.github.io/coast-keepers-project/)
 
@@ -43,12 +43,6 @@ In this decade we can observe increased desire in people in Ireland to care for 
 What is the first step? 
 Starting a website to educate and bring people together localy to help this environmental cause was the common answer.
 
-### **User Experience(UX)**
-***The Users :***  Local community members and community development organisations of Co.Kerry, interested in bettering our environment and learning about coastal pollution prevention.
-
-***The Purpouse of the Site :***  To spread awareness to the Co.Kerry community about coastal and water pollution, encourage to take part in coastline clean-ups and stimulate a meaningful community engagement events.
-
-### *User Stories :*
 Jackie, Listowel, Co. Kerry:
 > I want to be able to go online and find a local group that I can join for environmental events, clean-ups and social engagement without going  Facebook. I love our environment and I want to learn more about how I can help.
 
@@ -60,6 +54,41 @@ John, Ballylongford, Co. Kerry:
 
 Deirdre, Community Development Officer, Banna, Co.Kerry:
 > One of the aims of my job is to develop and encourage meaningful community engagement events. My organisation have been discussing importanse of our coastal environment. We would benefit from collaborating with any local environment groups and their events. Where can we find them?
+
+
+### **User Experience(UX)**
+***The Users :***  Local community members and community development organisations of Co.Kerry, interested in bettering our environment and learning about coastal pollution prevention.
+
+***The Purpouse of the Site :***  To spread awareness to the Co.Kerry community about coastal and water pollution, encourage to take part in coastline clean-ups and stimulate a meaningful community engagement events.
+
+### *User Stories :*
+
+***New Visitor:***
+   > I want to be able to understand what the aim of the website is from the landing page and enjoy the visual experience.
+   >> I know I can do it when there are clear, organised images and text explaining the goals of the websit.
+
+   > I want to be able to navigate the website with ease. 
+   >>I know I can do it when the website has clear navigation names that direct to specific information.
+
+   > I want to be able to contact website owners with ease about more information.
+   >> I know I can do it when there is a link that i can press which takes me directly to ownner's email address; that way I can see what i sent in my sent emails.
+
+***Returning visitor:***
+   > I want to be able to learn more about website owners and educate myself about the importance of coast cleaning and how I can help the cause.
+   >> I know I can do it if the website has a separate page where they go in more deapth about them and the environmental cause.
+
+   > I want to be able to register my interest in the events, without fully commiting to the coast cleaning.
+   >> I know I can do it if the website has a form I can fill with my detail and specify my interest.
+
+***Frequent Visitor:***
+   > I want to be able to find information about the locations and dates of cleaning events.
+   >> I know I can do it if the website has a separate page with a schedule of their events with dates, times and locations.
+
+   > I want to be able to go to a location where I can meet organisers and get free cleaning gear for coast cleanups.
+   >> I know I can do it if the website has a map of their base location where I can drop in to meet them.
+
+   > I want to be able to sign up to the specific location and date of cleaning event.
+   >> I know I can do it if the website has a form where I can specify the location and date of clean up I can do.
 
 ### *Goals :*
 ***Goal User :*** Learn about the importance of coastal enviroment preservation and pollution implications on our health. Take part in a beach cleaning, meet new people, social engagement, participation in new meaningful local events.
