@@ -346,14 +346,48 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
     - It provides the times when the user can drop in, and encourages the user to come without having to get in contact first, as no phone number is provided.
 
        ![The pin location map feature of the page](docs/readme-images/map-feature.jpg)
+
 - #### Sign Up Page
-![Sign Up Form](docs/readme-images/form-feature.jpg)
-![Esential details of the form - Name](docs/readme-images/emptyfield-one.jpg)
-![Esential details of the form - Surname](docs/readme-images/emptyfield-two.jpg)
-![Esential details of the form - Email](docs/readme-images/emptyfield-three.jpg)
-![Submit button hover feature](docs/readme-images/sumbit-selected.jpg)
-![Reset button hover feature](docs/readme-images/reset-selected.jpg)
-![Feedback message when form submitted](docs/readme-images/formsubmit-feedback.jpg)
+    - The *Sign Up* page is a very important feauture of the website.
+    - It is set agains an image that has the same color scheme as the website.
+    - The form border is peach and the form is gray and they are both opaque so the image can be fainly seen in the background. 
+    - The heading color is peach to compliment the border and main text color is beige to allow content stand out against its background.
+
+       ![Sign Up Form](docs/readme-images/form-feature.jpg)
+
+    - On this page, the users can register their interest in the website's environmenal cause.
+    - The user is required to fill out their general details.
+    - The form in this page has a feauture where the users have to fill ot their First Name, Last Name and Email address.
+    - If the user does not fill one of those detail fields, they cannot submit the form.
+
+       ![Esential details of the form - Name](docs/readme-images/emptyfield-one.jpg)
+       ![Esential details of the form - Surname](docs/readme-images/emptyfield-two.jpg)
+       ![Esential details of the form - Email](docs/readme-images/emptyfield-three.jpg)
+
+    - The radio feature gives users a choice whether they want to join the cause now, later or simply observe.
+    - One answer is automatically preselected, they simply have to choose one that suits the user most.
+
+      ![Radio button feature](docs/readme-images/radio-feature.jpg)
+
+    - The form also has a checkbox feature.
+    - It gives users an optional choice to chose one of the location events.
+    - The options are named after the beach locations the events are taking place, corresponding with the schedule on the *Schedule* page. 
+    - The selection of checbox boxes is not obligatory for succesful submition.
+    - If the user is intersted they can select one or more boxes.
+    
+       ![Checkbox selection feature](docs/readme-images/checkbox-feature.jpg)
+
+    - The form has a Submit and Reset button.
+    - Submit button generates a feedback message that thanks the user for signing up.
+
+        ![Feedback message when form submitted](docs/readme-images/formsubmit-feedback.jpg)
+
+    - The Reset button clears all the input fields and allows the user to start filling the form afresh.
+    - Both buttons are green in color and text is white and when mouse is hovered over, they change color to beige background and white text.
+
+        ![Submit button hover feature](docs/readme-images/sumbit-selected.jpg)&nbsp;&nbsp;
+        ![Reset button hover feature](docs/readme-images/reset-selected.jpg)
+
 
 ### **Possible Future Features**
 
