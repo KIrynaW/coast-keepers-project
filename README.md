@@ -20,9 +20,9 @@ The Coast Keepers website is a place where the local community of environmentall
       * [*Fonts*](#fonts)
 2. [**Implementation Phase**](#implementation-phase)
    * [***Website Features***](#website-features)
-      * [*Header and Naviation*](#header-and-navigation)
-      * [*Footer*](#footer)
       * [*Index(Home) Page*](#indexhome-page)
+      * [*Navigation*](#navigation)
+      * [*Footer*](#footer)
       * [*About Page*](#about-page)
       * [*Scedule Page*](#schedule-page)
       * [*Sign Up Page*](#sign-up-page)
@@ -115,66 +115,109 @@ The Coast Keepers website has four pages that will engage the users with it's co
 #### *Wireframes:*
 The website is responsive on all screen types: Phones, Tablets and Laptops.
 
-*All Screen Functionality*
+- __All Screen Functionality:__
 
-![Wireframe for all screens Home page](docs/wireframes/home-all-screens.jpg)
-![Wireframe focusing on the footer feature](docs/wireframes/footer-explained.jpg)
+  ![Wireframe for all screens Home page](docs/wireframes/home-all-screens.jpg)
+  ![Wireframe focusing on the footer feature](docs/wireframes/footer-explained.jpg)
 
-*Phones*
+- __Phones__
 
-![Wireframe of Home page for phone screens](docs/wireframes/home_%20phone_screen.jpg)
-![Wireframe of About page for phone screens](docs/wireframes/about_%20phone_screen.jpg)
-![Wireframe of Schedule page for phone screens](docs/wireframes/schedule_%20phone_screen.jpg)
-![Wireframe of Sign up page for phone screens](docs/wireframes/signup_phone_screen.jpg)
+  - __Home Page:__
 
-*Tablets*
+    ![Wireframe of Home page for phone screens](docs/wireframes/home_%20phone_screen.jpg)
 
-![Wireframe of Home page for tablet screens](docs/wireframes/home_%20ipad_screen.jpg)
-![Wireframe of About page for tablet screens](docs/wireframes/about_%20ipad_screen.jpg)
-![Wireframe of Schedule page for tablet screens](docs/wireframes/schedule_%20ipad_screen.jpg)
-![Wireframe of Sign Up page for tablet screens](docs/wireframes/signup_ipad_screen.jpg)
+  - __About Page:__
 
-*Laptops*
+    ![Wireframe of About page for phone screens](docs/wireframes/about_%20phone_screen.jpg)
 
-![Wireframe of Home page for laptop screens](docs/wireframes/home_%20laptop_screen.jpg)
-![Wireframe of About page for laptop screens](docs/wireframes/about_%20laptop_screen.jpg)
-![Wireframe of Schedule page for laptop screens](docs/wireframes/schedule_%20laptop-screens.jpg)
-![Wireframe of Sign Up page for laptop screens](docs/wireframes/signup_%20laptop_screens.jpg)
+  - __Schedule Page:__
+
+    ![Wireframe of Schedule page for phone screens](docs/wireframes/schedule_%20phone_screen.jpg)
+
+  - __Sign Up Page:__
+
+    ![Wireframe of Sign up page for phone screens](docs/wireframes/signup_phone_screen.jpg)
+
+- __Tablets:__
+
+  - __Home Page:__
+
+    ![Wireframe of Home page for tablet screens](docs/wireframes/home_%20ipad_screen.jpg)
+
+  - __About Page:__
+
+    ![Wireframe of About page for tablet screens](docs/wireframes/about_%20ipad_screen.jpg)
+
+  - __Schedule Page:__
+
+    ![Wireframe of Schedule page for tablet screens](docs/wireframes/schedule_%20ipad_screen.jpg)
+
+  - __Sign Up Page:__
+
+    ![Wireframe of Sign Up page for tablet screens](docs/wireframes/signup_ipad_screen.jpg)
+
+- __Laptops:__
+
+  - __Home Page__
+
+    ![Wireframe of Home page for laptop screens](docs/wireframes/home_%20laptop_screen.jpg)
+  
+  - __About Page__
+
+    ![Wireframe of About page for laptop screens](docs/wireframes/about_%20laptop_screen.jpg)
+
+  - __Schedule Page__
+
+    ![Wireframe of Schedule page for laptop screens](docs/wireframes/schedule_%20laptop-screens.jpg)
+
+  - __Sign Up Pag__
+
+    ![Wireframe of Sign Up page for laptop screens](docs/wireframes/signup_%20laptop_screens.jpg)
 
 #### *Color Scheme:*
 
 This pallet was generated from [Coolors](https://coolors.co/)
->This pallet reflects the beach and the ocean themes of the Coast Keepers website. 
->The dark teal and light beige and white are good contrastic color and the peach adds an accent.
+ - This pallet reflects the beach and the ocean themes of the Coast Keepers website. 
+ - The dark teal and light beige and white are good contrasting colors and the peach adds an accent.
 
-![Color Scheme chosen for the project](docs/readme-images/project-color-scheme.jpg)
+    ![Color Scheme chosen for the project](docs/readme-images/project-color-scheme.jpg)
 
 The pallet was then scored on contrast levels on [Contrast Grid](https://contrast-grid.eightshapes.com/).
->To make sure that the color combinations are not clashing and are suitable to use for accessability purpouses.
+ - To make sure that the color combinations are not clashing and are suitable to use for accessability purpouses.
 
->Here are the generated contrast autcome of the pallet:
+ - Here are the generated contrast autcome of the pallet:
 
-![All color scheme colors in contrast](docs/readme-images/all-contrasts.jpg)
+    ![All color scheme colors in contrast](docs/readme-images/all-contrasts.jpg)
 
->Here are only the colors that scored high on contrast levels and these combinations will be applied.
+ - Here are only the colors that scored high on contrast levels and these combinations will be applied.
 
-![Best contrasting colors for project](docs/readme-images/best-contrast.jpg)
+    ![Best contrasting colors for project](docs/readme-images/best-contrast.jpg)
+    
 #### *Typography:*
+
 The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
-__*Bebas Neue*__ font was used for all the headings and the logo.
-__*Barlow*__ font was used for all the paragraphs.
-These fonts are complimentary to each other, easy to read and are in line with the style of the website.
+- __*Bebas Neue*__ font was used for all the headings and the logo.
+- __*Barlow*__ font was used for all the paragraphs.
+- These fonts are complimentary to each other, easy to read and are in line with the style of the website.
 
-![Website Fonts](docs/readme-images/google-fonts.jpg)
+    ![Website Fonts](docs/readme-images/google-fonts.jpg)
 
-The icons used in the webiste where imported form [Font Awesome](https://fontawesome.com/)
+- The icons used in the webiste where imported form [Font Awesome](https://fontawesome.com/)
 
-![Font Awesome Life Ring Icon](docs/readme-images/font-awesome.jpg)
+    ![Font Awesome Life Ring Icon](docs/readme-images/font-awesome.jpg)
 
 ## **Implementation Phase:**
 ### **Website Features**
-#### *Header and Navigation*
+- #### Index(Home) Page
+ - 
+
+![Index Page Mission](docs/readme-images/index-intro.jpg)
+![Hero text with About Us Button](docs/readme-images/aboutus-selected.jpg)
+![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
+![Index Page Video Section](?)
+
+- #### Navigation
 ![Header with Logo and Navigation](docs/readme-images/header.jpg)
 ![Header Features - Logo](docs/readme-images/logo.jpg)
 ![Header Nav Hover Feature - About](docs/readme-images/navabout-selected.jpg)
@@ -187,12 +230,6 @@ The icons used in the webiste where imported form [Font Awesome](https://fontawe
 ![Footer Hove Email]
 ![Link to Gmail when Clicked](docs/readme-images/email-popup.jpg)
 
-#### *Index(Home) Page*
-
-![Index Page Mission](docs/readme-images/index-intro.jpg)
-![Hero text with About Us Button](docs/readme-images/aboutus-selected.jpg)
-![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
-![Index Page Video Section](?)
 
 #### *About Page*
 #### *Schedule Page*
