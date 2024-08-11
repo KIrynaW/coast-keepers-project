@@ -389,7 +389,17 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
         ![Reset button hover feature](docs/readme-images/reset-selected.jpg)
 
 
-### **Possible Future Features**
+- ### **Possible Future Features**
+
+    - A feature where active users can log how much kg litter they collected at a location  - which then shows up as a statistic on the page.
+
+    - Use JavaScript to add more active styling: eg. a rotating gallery of photos, more effective hover effects, icons that transforms when hovered on,
+
+    - Set up a Cloud database where all the feedback forms would be sent.
+
+    - A live chat section where like minded environmentalists can talk.
+
+   
 
 ## **Testing Phase:**
 ### **Validator Testing**
