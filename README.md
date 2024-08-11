@@ -58,9 +58,11 @@ Deirdre, Community Development Officer, Banna, Co.Kerry:
 
 
 ### **User Experience(UX)**
-***The Users :***  Local community members and community development organisations of Co.Kerry, interested in bettering our environment and learning about coastal pollution prevention.
+- ***The Users :***  
+    - Local community members and community development organisations of Co.Kerry, interested in bettering our environment and learning about coastal pollution prevention.
 
-***The Purpouse of the Site :***  To spread awareness to the Co.Kerry community about coastal and water pollution, encourage to take part in coastline clean-ups and stimulate a meaningful community engagement events.
+- ***The Purpouse of the Site :***  
+    - To spread awareness to the Co.Kerry community about coastal and water pollution, encourage to take part in coastline clean-ups and stimulate a meaningful community engagement events.
 
 ### *User Stories :*
 
@@ -92,21 +94,35 @@ Deirdre, Community Development Officer, Banna, Co.Kerry:
    >> I know I can do it if the website has a form where I can specify the location and date of clean up I can do.
 
 ### *Goals :*
-***Goal User :*** Learn about the importance of coastal enviroment preservation and pollution implications on our health. Take part in a beach cleaning, meet new people, social engagement, participation in new meaningful local events.
+- ***Goal User :*** 
+    - Learn about the importance of coastal enviroment preservation and pollution implications on our health. Take part in a beach cleaning, meet new people, social engagement, participation in new meaningful local events.
 
-***Goal Site Owner :*** Teach local communities in Co.Kerry about coastal environment preservation, spread awarenes about implication of coastal pollution and gain volunteers for the future cleanup events. Avertisment of clean up events and community engagement.
+- ***Goal Site Owner :*** 
+    - Teach local communities in Co.Kerry about coastal environment preservation, spread awarenes about implication of coastal pollution and gain volunteers for the future cleanup events. Avertisment of clean up events and community engagement.
 
 ### **User Interface(UI)**
 The Coast Keepers website has four pages that will engage the users with it's content.
->Home Page: It briefly introduces the user to the ethos of the site owner, and what their social organisation can offer to their users. The header has a 'Learn More' call to action button, that takes the user to the 'About' page.
+- *Home Page:* 
+    - It briefly introduces the user to the ethos of the site owner, and what their social organisation can offer to their users. The header has a 'Learn More' call to action button, that takes the user to the 'About' page.
 
->About Page: Here users learn more about the website owners and how Coast Keepers initiative has started. They also learn more about the importanse of coastal cleaning and implication of pollution on environment.
+- *About Page:* 
+    - Here users learn more about the website owners and how Coast Keepers initiative has started. - They also learn more about the importanse of coastal cleaning and implication of pollution on environment.
 
->Schedule: This page shows users the different beach locations in Co. Kerry and times and dates of the clean-up events, it also has an address and a map where it shows to users where they can go to collect their free cleaning gear.
+- *Schedule Page:* 
+    - This page shows users the different beach locations in Co. Kerry and times and dates of the clean-up events. 
+    - It also has an address, opening times and a map where it shows to users where they can go to collect their free cleaning gear.
 
->Sign Up: Here, users can imput their full name and email and sign up to one or more beach location cleaning events.
+- *Sign Up Page:* 
+    - Here, users can imput their full name and email and sign up to one or more beach location cleaning events.
 
->All Page Footers: All the footers on all pages have four action buttons that takes the user to external sites; the email, Facebook, Instagram and X(Twitter). It also has a 'Join Us' button on 'Home', 'About' and 'Schedule' pages that takes the user to the 'Sign Up' page. On the 'Sign Up' page the action button changes from the 'Join Us' to 'Home', that takes the user back to 'Home' page when clicked.
+- *All Page Headers*
+    - Have a Logo on the left and menu section of all four pages on the right.
+    - The mobile version of the webiste has a icon that one can press to drop down toggle the menu bar.
+
+- *All Page Footers:* 
+    - All the footers on all pages have four action buttons that takes the user to external sites; the email, Facebook, Instagram and X(Twitter). 
+    - It also has a 'Join Us' button on 'Home', 'About' and 'Schedule' pages that takes the user to the 'Sign Up' page. 
+    - On the 'Sign Up' page the action button changes from the 'Join Us' to 'Home', that takes the user back to 'Home' page when clicked.
 
 
 ***
