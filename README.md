@@ -303,6 +303,9 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
     ![Mission of the website text](docs/readme-images/mission-text.jpg)
 
   - After the mission statement, there is an outline about activities of the organisation that can be attractive to the user, further intising them to the cause.
+  - A round image border is used to make the image stand out against the text. 
+  - The backround of the text is white and part of it is hidden behind the image to create an attractive design feature. 
+  - As the screen stretches the images expand on the page.
 
     ![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
    
@@ -311,8 +314,24 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
     ![Index Page Video Section](docs/readme-images/video-feature.jpg)
 
 - #### About Page
-![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
-![Reasons why coast cleaning important section](docs/readme-images/reasons-feature.jpg)
+    - About page introduces the user to the story of how Coast Keepers initiative started.
+    - It has a pleasent visual story flow, with the eye traveling from the image to the left and then  text to the right.
+
+       ![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
+
+    - The *About Us* setion is followed by the *Reasons* section, with a why join heading with text explaining the ramifications of coastal pollution. Here the user can learn about the importance of joining the cause.
+    - The text is set against deep green background with white text which stands out and makes the content very effective.
+
+       ![Text about why one should join the cause](docs/readme-images/whyjoin-text.jpg)
+    - Furthe the *About* page expanding on the topic of importance of website's cause, by listing four main reasons why the initiative of the website is important.
+    - Here the information is more detailed and specific and gives the user deeper insight.
+    - This section is not too text heaavy, preventing information overload.
+    - The round image feature is carried through to About page for consistency.
+    - The text boxes contract and expand depending on the screen size.
+   
+       ![Reasons why coast cleaning important section](docs/readme-images/reasons-feature.jpg)
+
+       
 - #### Schedule Page
 ![The Scedule feature of events](docs/readme-images/schedule-feature.jpg)
 ![The pin location map feature of the page](docs/readme-images/map-feature.jpg)
