@@ -144,18 +144,31 @@ The website is responsive on all screen types: Phones, Tablets and Laptops.
 This pallet was generated from [Coolors](https://coolors.co/)
 >This pallet reflects the beach and the ocean themes of the Coast Keepers website. 
 >The dark teal and light beige and white are good contrastic color and the peach adds an accent.
+
 ![Color Scheme chosen for the project](docs/readme-images/project-color-scheme.jpg)
 
-The pallet was then scored on contrast levels on [ContrastGrid](https://contrast-grid.eightshapes.com/).
+The pallet was then scored on contrast levels on [Contrast Grid](https://contrast-grid.eightshapes.com/).
 >To make sure that the color combinations are not clashing and are suitable to use for accessability purpouses.
 
-Here is the generated contrast autcome of the pallet:
+>Here are the generated contrast autcome of the pallet:
+
 ![All color scheme colors in contrast](docs/readme-images/all-contrasts.jpg)
 
-Here is only the colors that scored high on contrast levels and these combinations will be applied.
+>Here are only the colors that scored high on contrast levels and these combinations will be applied.
+
 ![Best contrasting colors for project](docs/readme-images/best-contrast.jpg)
 #### *Typography:*
-I used 
+The fonts were taken from [Google Fonts](https://fonts.google.com/)
+
+__*Bebas Neue*__ font was used for all the headings and the logo.
+__*Barlow*__ font was used for all the paragraphs.
+These fonts are complimentary to each other, easy to read and are in line with the style of the website.
+
+![Website Fonts](docs/readme-images/google-fonts.jpg)
+
+The icons used in the webiste where imported form [Font Awesome](https://fontawesome.com/)
+
+![Font Awesome Life Ring Icon](docs/readme-images/font-awesome.jpg)
 
 ## **Implementation Phase:**
 ### **Website Features**
