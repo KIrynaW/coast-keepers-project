@@ -20,10 +20,12 @@ The Coast Keepers website is a place where the local community of environmentall
       * [*Fonts*](#fonts)
 2. [**Implementation Phase**](#implementation-phase)
    * [***Website Features***](#website-features)
+      * [*Header and Naviation*](#header-and-navigation)
+      * [*Footer*](#footer)
       * [*Index(Home) Page*](#indexhome-page)
-      * [About Page*](#about-page)
-      * [Scedule Page](#schedule-page)
-      * [Sign Up Page](#sign-up-page)
+      * [*About Page*](#about-page)
+      * [*Scedule Page*](#schedule-page)
+      * [*Sign Up Page*](#sign-up-page)
    * [**Possible Future Features**](#possible-future-features)
 3. [**Testing Phase**](#testing-phase)
    * [***Validator Testing***](#validator-testing)
@@ -172,7 +174,26 @@ The icons used in the webiste where imported form [Font Awesome](https://fontawe
 
 ## **Implementation Phase:**
 ### **Website Features**
+#### *Header and Navigation*
+![Header with Logo and Navigation](docs/readme-images/header.jpg)
+![Header Features - Logo](docs/readme-images/logo.jpg)
+![Header Nav Hover Feature - About](docs/readme-images/navabout-selected.jpg)
+![Header Nav Hover Feature - Schedule](docs/readme-images/navschedule-selected.jpg)
+
+### *Footer*
+![Footer of the Webiste Whole](docs/readme-images/footer-full.jpg)
+![Footer Hover Socials](docs/readme-images/socials-selected.jpg)
+![Footer Hover Join Us](docs/readme-images/joinus-selected.jpg)
+![Footer Hove Email]
+![Link to Gmail when Clicked](docs/readme-images/email-popup.jpg)
+
 #### *Index(Home) Page*
+
+![Index Page Mission](docs/readme-images/index-intro.jpg)
+![Hero text with About Us Button](docs/readme-images/aboutus-selected.jpg)
+![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
+![Index Page Video Section](?)
+
 #### *About Page*
 #### *Schedule Page*
 #### *Sign Up Page*
