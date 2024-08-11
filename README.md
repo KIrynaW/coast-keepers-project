@@ -319,11 +319,12 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
        ![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
 
-    - The *About Us* setion is followed by the *Reasons* section, with a why join heading with text explaining the ramifications of coastal pollution. Here the user can learn about the importance of joining the cause.
+    - The *About Us* setion is followed by the *Reasons* section, with a strong heading and text explaining the ramifications of coastal pollution. 
+    - Here the user can learn about the importance of joining the cause.
     - The text is set against deep green background with white text which stands out and makes the content very effective.
 
        ![Text about why one should join the cause](docs/readme-images/whyjoin-text.jpg)
-    - Furthe the *About* page expanding on the topic of importance of website's cause, by listing four main reasons why the initiative of the website is important.
+    - Furthe the *About* page expands on the topic of importance of the website's environmental cause, by listing four main reasons why the initiative of the website is important.
     - Here the information is more detailed and specific and gives the user deeper insight.
     - This section is not too text heaavy, preventing information overload.
     - The round image feature is carried through to About page for consistency.
@@ -331,10 +332,20 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
    
        ![Reasons why coast cleaning important section](docs/readme-images/reasons-feature.jpg)
 
-       
+
 - #### Schedule Page
-![The Scedule feature of events](docs/readme-images/schedule-feature.jpg)
-![The pin location map feature of the page](docs/readme-images/map-feature.jpg)
+    - The Schedule Section feautures 6 separate content boxes divided by white border and set against the opaque-gray background of Ballybunion beach photo.
+    - The user can find the dates, times and beach locations of cleaning and surfing events that they may choose to participate in.
+    - The content boxes expand and contract deending on the screen size.
+
+       ![The Scedule feature of events](docs/readme-images/schedule-feature.jpg)
+
+    - The *Schedule* page also feautures an imbedded google map with a pin location of the organisation
+    - There is a text box, notifying the user of items that they provide for users, the address and the opening times.
+    - Here the user can find a physical location where they can go and also explore on google maps.
+    - It provides the times when the user can drop in, and encourages the user to come without having to get in contact first, as no phone number is provided.
+
+       ![The pin location map feature of the page](docs/readme-images/map-feature.jpg)
 - #### Sign Up Page
 ![Sign Up Form](docs/readme-images/form-feature.jpg)
 ![Esential details of the form - Name](docs/readme-images/emptyfield-one.jpg)
