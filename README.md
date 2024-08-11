@@ -238,8 +238,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
           ![Three Wave Navigation bar menu](docs/readme-images/navbar-phone.jpg)
              
     - __Footer:__
-
-       - The footer is the same across all page except for the *Sign Up* Page.
+      - The footer is the same across all page except for the *Sign Up* Page.
        
           ![The footer of the website](docs/readme-images/footer-full.jpg)
 
@@ -270,13 +269,30 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
           ![Foter Home page button](docs/readme-images/home-selected.jpg)
 
 - #### Index(Home) Page
+  - The *Home* landing page is where the users can get a glimpse of information about the website and understand their general goal.
+  - The colors used have a good contrast with beige and teal, without too much information given at once, using peach color highlight in text borders and hover features.
+  - Coast Keeper's Landing page has a large hero image that features a had picking up a plastic bottle from water.
 
-![Index Page Hero Image and text](docs/readme-images/landing-page.jpg)
-![Hero text with About Us Button](docs/readme-images/slogan.jpg)
-![About Us button feature](docs/readme-images/aboutus-selected.jpg)
-![Mission of the website text](docs/readme-images/mission-text.jpg)
-![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
-![Index Page Video Section](docs/readme-images/video-feature.jpg)
+     ![Index Page Hero Image and text](docs/readme-images/landing-page.jpg)
+
+  - The moto indicates that this website is about an environmental cause.
+  - This section has a button feature that directs the user to learn *About Us*, the founders and the cause itself, without scroll any further.
+  - When the mouse hovers over the *About Us* button it highlights by changing color.
+
+    ![Hero text with About Us Button](docs/readme-images/slogan.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
+    ![About Us button feature](docs/readme-images/aboutus-selected.jpg)
+  
+  - If the user chooses to scroll further, they find the outline of the *Mission* of the website.
+
+    ![Mission of the website text](docs/readme-images/mission-text.jpg)
+
+  - After the mission statement, there is an outline about activities of the organisation that can be attractive to the user, further intising them to the cause.
+
+    ![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
+   
+  - At the end of the page there is an educational YouTube video link with a text box above giving reasons to why one might want to join the Coast Keepers cause.
+
+    ![Index Page Video Section](docs/readme-images/video-feature.jpg)
 
 - #### About Page
 ![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
