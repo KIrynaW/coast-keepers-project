@@ -20,9 +20,8 @@ The Coast Keepers website is a place where the local community of environmentall
       * [*Fonts*](#fonts)
 2. [**Implementation Phase**](#implementation-phase)
    * [***Website Features***](#website-features)
+      * [*Features Found on All Pages*]()
       * [*Index(Home) Page*](#indexhome-page)
-      * [*Navigation*](#navigation)
-      * [*Footer*](#footer)
       * [*About Page*](#about-page)
       * [*Scedule Page*](#schedule-page)
       * [*Sign Up Page*](#sign-up-page)
@@ -209,31 +208,55 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
 ## **Implementation Phase:**
 ### **Website Features**
+- #### **Features Found on All Pages:**
+    - Navigation:
+       - The navigation bar is the same across all four pages. 
+       - It is fixed and has a litte gap at the top where the contents of the page can be seen when scrolling
+
+       - It consists of a Logo on the left and four menu items that direct users to website pages.
+
+          ![Header with Logo and Navigation](docs/readme-images/header.jpg)
+
+       - The Logo is the name of organisation *Coast Keepers* and the icon is a life-ring that indicates that the website has a marine theme.
+
+          ![Header Features - Logo](docs/readme-images/logo.jpg)
+       - The menu section has two features; 
+       - The line undertheath indicates to the user the current page they are visiting.
+
+          ![Header Nav Hover Feature - About](docs/readme-images/navabout-selected.jpg)
+
+       - The hover feature alows the user to highlight the page in the menu they want to visit next.
+
+          ![Header Nav Hover Feature - Schedule](docs/readme-images/navschedule-selected.jpg)
+
+       - On phones, the navigation bar has a logo and a three wave icon.
+
+          ![Navigation Bar on Phones](docs/readme-images/phone-header.jpg) 
+
+       - When icon is pressed the menu drops down and users can select the page they want to visit. 
+
+          ![Three Wave Navigation bar menu](docs/readme-images/navbar-phone.jpg)
+             
+    - __Footer:__
+    ![Footer of the Webiste Whole](docs/readme-images/footer-full.jpg)
+    ![Footer Hover Socials](docs/readme-images/socials-selected.jpg)
+    ![Footer Hover Join Us](docs/readme-images/joinus-selected.jpg)
+    ![Footer Hove Email]
+    ![Link to Gmail when Clicked](docs/readme-images/email-popup.jpg)
+
+
 - #### Index(Home) Page
- - 
 
 ![Index Page Mission](docs/readme-images/index-intro.jpg)
 ![Hero text with About Us Button](docs/readme-images/aboutus-selected.jpg)
 ![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
 ![Index Page Video Section](?)
 
-- #### Navigation
-![Header with Logo and Navigation](docs/readme-images/header.jpg)
-![Header Features - Logo](docs/readme-images/logo.jpg)
-![Header Nav Hover Feature - About](docs/readme-images/navabout-selected.jpg)
-![Header Nav Hover Feature - Schedule](docs/readme-images/navschedule-selected.jpg)
 
-### *Footer*
-![Footer of the Webiste Whole](docs/readme-images/footer-full.jpg)
-![Footer Hover Socials](docs/readme-images/socials-selected.jpg)
-![Footer Hover Join Us](docs/readme-images/joinus-selected.jpg)
-![Footer Hove Email]
-![Link to Gmail when Clicked](docs/readme-images/email-popup.jpg)
+- #### About Page
+- #### Schedule Page
+- #### Sign Up Page
 
-
-#### *About Page*
-#### *Schedule Page*
-#### *Sign Up Page*
 ### **Possible Future Features**
 
 ## **Testing Phase:**
