@@ -269,23 +269,29 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
           ![Footer Hover Join Us](docs/readme-images/joinus-selected.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
           ![Foter Home page button](docs/readme-images/home-selected.jpg)
 
-       
-
-          
-
-
-
 - #### Index(Home) Page
 
-![Index Page Mission](docs/readme-images/index-intro.jpg)
-![Hero text with About Us Button](docs/readme-images/aboutus-selected.jpg)
+![Index Page Hero Image and text](docs/readme-images/landing-page.jpg)
+![Hero text with About Us Button](docs/readme-images/slogan.jpg)
+![About Us button feature](docs/readme-images/aboutus-selected.jpg)
+![Mission of the website text](docs/readme-images/mission-text.jpg)
 ![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
-![Index Page Video Section](?)
-
+![Index Page Video Section](docs/readme-images/video-feature.jpg)
 
 - #### About Page
+![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
+![Reasons why coast cleaning important section](docs/readme-images/reasons-feature.jpg)
 - #### Schedule Page
+![The Scedule feature of events](docs/readme-images/schedule-feature.jpg)
+![The pin location map feature of the page](docs/readme-images/map-feature.jpg)
 - #### Sign Up Page
+![Sign Up Form](docs/readme-images/form-feature.jpg)
+![Esential details of the form - Name](docs/readme-images/emptyfield-one.jpg)
+![Esential details of the form - Surname](docs/readme-images/emptyfield-two.jpg)
+![Esential details of the form - Email](docs/readme-images/emptyfield-three.jpg)
+![Submit button hover feature](docs/readme-images/sumbit-selected.jpg)
+![Reset button hover feature](docs/readme-images/reset-selected.jpg)
+![Feedback message when form submitted](docs/readme-images/formsubmit-feedback.jpg)
 
 ### **Possible Future Features**
 
