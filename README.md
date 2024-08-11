@@ -238,11 +238,41 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
           ![Three Wave Navigation bar menu](docs/readme-images/navbar-phone.jpg)
              
     - __Footer:__
-    ![Footer of the Webiste Whole](docs/readme-images/footer-full.jpg)
-    ![Footer Hover Socials](docs/readme-images/socials-selected.jpg)
-    ![Footer Hover Join Us](docs/readme-images/joinus-selected.jpg)
-    ![Footer Hove Email]
-    ![Link to Gmail when Clicked](docs/readme-images/email-popup.jpg)
+
+       - The footer is the same across all page except for the *Sign Up* Page.
+       
+          ![The footer of the website](docs/readme-images/footer-full.jpg)
+
+       - On the *Sign Up* Page the last feature icon changes its function.
+
+          ![Footer of the Webiste Whole](docs/readme-images/signup-footer.jpg)
+       
+       - There are four button features in the footer that take the user to different internal and external web locations.
+
+       - When the user hovers over each of them they change color to indicate selection.
+
+       - The first feature is the *Email Us* button; when selected, a new tab opens and the user is taken to a gmail email, ready for the user to send their query.
+
+          ![Footer hover feature - Email](docs/readme-images/email-selected.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
+          ![Link to Gmail when Clicked](docs/readme-images/email-popup.jpg)
+
+       - The next three features are social media buttons  for *Facebook*, *Instagram*, *X-Twitter.
+       - When one is selected a new tab opens and the user is take to the chosen social media platform.
+
+          ![Footer Social media buttons](docs/readme-images/footer-social-icons.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
+          ![Footer Hover Socials](docs/readme-images/socials-selected.jpg)
+
+       - The last feature in the footer is a *Join Us* button, when selected, takes the user to the *Sign Up* Page of the website.
+       - On the *Sign Up* Page, as mentioned above, the footer icon changes from *Join Us* to *Home* icon. When selected, the user is taken back to the *Home* Page.
+
+          ![Footer Join Us button](docs/readme-images/footer-join%20us.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
+          ![Footer Hover Join Us](docs/readme-images/joinus-selected.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
+          ![Foter Home page button](docs/readme-images/home-selected.jpg)
+
+       
+
+          
+
 
 
 - #### Index(Home) Page
