@@ -27,8 +27,12 @@ The Coast Keepers website is a place where the local community of environmentall
       * [*Sign Up Page*](#sign-up-page)
    * [**Possible Future Features**](#possible-future-features)
 3. [**Testing Phase**](#testing-phase)
-   * [***Validator Testing***](#validator-testing)
    * [***Bugs***](#bugs)
+   * [***Validator Testing***](#validator-testing)
+   * [***Accessibility Testing***](#accessibility-testing)
+   * [***Manul Testing***](#manual-testing)
+   * [***User Story Testing***](#user-story-testing)
+   
 4. [**Deployment**](#deployment)
 5. [**Credits**](#credits)
    * [***Digital Tools Used***](#digital-tools-used)
@@ -285,33 +289,36 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
           ![Foter Home page button](docs/readme-images/home-selected.jpg)
 
 - #### Index(Home) Page
-  - The *Home* landing page is where the users can get a glimpse of information about the website and understand their general goal.
-  - The colors used have a good contrast with beige and teal, without too much information given at once, using peach color highlight in text borders and hover features.
-  - Coast Keeper's Landing page has a large hero image that features a had picking up a plastic bottle from water.
+    - The *Home* landing page is where the users can get a glimpse of information about the website 
+    and understand their general goal.
+    - The colors used have a good contrast with beige and teal, without too much information given at 
+    once, using peach color highlight in text borders and hover features.
+    - Coast Keeper's Landing page has a large hero image that features a had picking up a plastic 
+    bottle from water.
 
-     ![Index Page Hero Image and text](docs/readme-images/landing-page.jpg)
+       ![Index Page Hero Image and text](docs/readme-images/landing-page.jpg)
 
-  - The moto indicates that this website is about an environmental cause.
-  - This section has a button feature that directs the user to learn *About Us*, the founders and the cause itself, without scroll any further.
-  - When the mouse hovers over the *About Us* button it highlights by changing color.
+    - The moto indicates that this website is about an environmental cause.
+    - This section has a button feature that directs the user to learn *About Us*, the founders and the cause itself, without scroll any further.
+    - When the mouse hovers over the *About Us* button it highlights by changing color.
 
-    ![Hero text with About Us Button](docs/readme-images/slogan.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
-    ![About Us button feature](docs/readme-images/aboutus-selected.jpg)
+       ![Hero text with About Us Button](docs/readme-images/slogan.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
+      ![About Us button feature](docs/readme-images/aboutus-selected.jpg)
   
-  - If the user chooses to scroll further, they find the outline of the *Mission* of the website.
+    - If the user chooses to scroll further, they find the outline of the *Mission* of the website.
 
-    ![Mission of the website text](docs/readme-images/mission-text.jpg)
+       ![Mission of the website text](docs/readme-images/mission-text.jpg)
 
-  - After the mission statement, there is an outline about activities of the organisation that can be attractive to the user, further intising them to the cause.
-  - A round image border is used to make the image stand out against the text. 
-  - The backround of the text is white and part of it is hidden behind the image to create an attractive design feature. 
-  - As the screen stretches the images expand on the page.
+    - After the mission statement, there is an outline about activities of the organisation that can be attractive to the user, further intising them to the cause.
+    - A round image border is used to make the image stand out against the text. 
+    - The backround of the text is white and part of it is hidden behind the image to create an attractive design feature. 
+    - As the screen stretches the images expand on the page.
 
-    ![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
+       ![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
    
-  - At the end of the page there is an educational YouTube video link with a text box above giving reasons to why one might want to join the Coast Keepers cause.
+    - At the end of the page there is an educational YouTube video link with a text box above giving reasons to why one might want to join the Coast Keepers cause.
 
-    ![Index Page Video Section](docs/readme-images/video-feature.jpg)
+       ![Index Page Video Section](docs/readme-images/video-feature.jpg)
 
 - #### About Page
     - About page introduces the user to the story of how Coast Keepers initiative started.
@@ -483,10 +490,12 @@ All Website Pages and CSS Style Sheet was clear of errors.
    - CSS Style Sheet:
 
        ![CSS Style Sheet Validates](docs/readme-images/css-validated.jpg) 
-       
-### Accessibility Testing:
 
-### ** Manual Testing**
+
+### **Accessibility Testing:**
+### **Manual Testing**
+### **User Story Testing**
+
     
 
 ## **Deployment:**
