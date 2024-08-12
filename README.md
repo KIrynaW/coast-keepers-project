@@ -456,22 +456,37 @@ Here are the key issues detected at the final stages of website completion and h
 - It was later discovered that it was a third party code error in the YouTube video source that was showing up, as when the embeded video link was removed, the error cleared.
 - No further action was required.
 
+### **Validator Testing**  
+Once all the Bugs were cleared the website was evaluated by [W3C Markup Validation Tool](https://validator.w3.org/) and [Jigsaw: CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
-  
+All Website Pages and CSS Style Sheet was clear of errors.
+   - Index/Home Page:
 
+       ![Website Index Page validated](docs/readme-images/indexpage-validated.jpg)
 
+   - About Page:
 
+       ![Website About Page validated](docs/readme-images/aboutpage-validated.jpg)
 
+   - Schedule Page:
 
-- ### Accessibility Testing:
+       ![Website Schedule Page validated](docs/readme-images/schedulepage-validated.jpg)
+
+   - Sign Up Page:
+
+       ![Website Sign Up Page validated](docs/readme-images/signuppage-validated.jpg)
+
+   - Submit Feedback Page:
+
+       ![Website Submit Feedback Page validated](docs/readme-images/submitfeedback-validated.jpg)
+
+   - CSS Style Sheet:
+
+       ![CSS Style Sheet Validates](docs/readme-images/css-validated.jpg) 
        
+### Accessibility Testing:
 
-      
-
-   
-### **Validator Testing**
 ### ** Manual Testing**
-- The website was also thoroughly checked on Chrome, Microsoft Edge and  dev tool was showing an 
     
 
 ## **Deployment:**
