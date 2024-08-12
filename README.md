@@ -571,12 +571,24 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
         ![Lighthouse statistic generated on Sign Up page - mobile](docs/readme-images/signup-mobile.jpg)
 
 ### **Manual Testing**
-  - Testing was conducted across three different web browsers; Chrome, Safari and Firefox to ensure that the website works correctly on differen browsers. No issues were detected.
-  - Website responsivenes was tested on a Phone, Tablet, Laptop and Desktop and it is confirmed that the website is fully responsive across all device screens.
-  - All the iternal and external links were tested to check that they all work correctly and that no link is broken. No issues were detected.
-  
+  - **Browser Testing** 
+     - Testing was conducted across three different web browsers; *Chrome*, *Edge* and *Firefox* to ensure that the website works correctly on differen browsers. 
+     - No issues were detected.
 
+  - **Website Responsivenes** 
+     - Reponsiveness of the website was tested on various Phones, Tablets, Laptops and a Desktop to check for any errors. 
+     - The results confirmed that the website is fully responsive across all device screens.
 
+  - **Website Links**
+     - All the iternal and external links were tested on phones and laptops as well as *Chrome* , *Edge* and Firefox Browsers. 
+     - Results showed that all links are in working order and no link is broken. 
+     - No other issues were detected.
+
+  - **Website Form**
+     - The test was conducted to make sure that when the form is submitted it triggers a correct response and takes the user to the designated location on the website.
+     - It was tested that all the radio buttons and checkbox buttons work correctly and when the compulsary text input fields are not filled it notifies the user.
+     - The Restore button was tested to ensure it clears the data that was inputed.
+     - The results of these test showed no issues.
 
 ### **User Story Testing**
  
