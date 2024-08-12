@@ -431,8 +431,10 @@ Here are the key issues detected at the final stages of website completion and h
   - The website was run through [Wave](https://wave.webaim.org/) web accessibility evaluation tool, and few errors were found.
 
      - __Error 1: Form Label__
-
+     The issue was in the missing value in the label property
         ![First Error found in the html code](docs/readme-images/error1-formlabel.jpg)
+
+        **Solution:** a heading was created which then was hidden by adding a class and styling it to be hidden.
         ![First Error solution code](docs/readme-images/error1-initialfix.jpg)
        
      - __Error 2: Justified Text__
