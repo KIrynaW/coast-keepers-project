@@ -493,6 +493,54 @@ All Website Pages and CSS Style Sheet was clear of errors.
 
 
 ### **Accessibility Testing:**
+To check the website *Performance*, *Accessibility*, *Best Practice* and *SEO*, the website was run through the *Lighthouse* Chrome Dev Tools performance statistics generator.
+
+- A low performance was noticed in the general website and *Index* page perforance statistic.
+- It was deduced that the reason for reduced performance was the embeded YouTube video in the *Index* page.
+    Desktop:
+
+    ![General Website Lighthouse statistic generated with YouTube video inluded - Desktop](docs/readme-images/general-desktop.jpg)&nbsp;&nbsp;
+    ![Index Page Lighthouse statistic generated with YouTube video included - Desktop](docs/readme-images/index-desktop.jpg)
+
+    Mobile:
+
+    ![General Website Lighthouse statistic generated with YouTube video inluded - Phone](docs/readme-images/general-mobile.jpg)&nbsp;&nbsp;
+    ![Index Page Lighthouse statistic generated with YouTube video included - Phone](docs/readme-images/index-mobile.jpg)
+
+- For testing purpouse, the video was removed and Lihthouse report was generated again and the performance was improved.
+   
+    Desktop:
+
+    ![General Website Lighthouse statistic generated without the YouTube video - Desktop](docs/readme-images/general-desktop-novid.jpg)
+
+    Mobile:
+
+    ![General Website Lighthouse statistic generated without the YouTube video - Phone](docs/readme-images/general-mobile-novid.jpg)
+
+Despite the performance reducing, the decision was made to keep the embeded YouTube video, as it added value to the website.
+
+The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* statistic generator and scored high.
+
+ - Desktop:
+   - *About Page:*
+   ![Lighthouse statistic generated on About page - desktop](docs/readme-images/about-desktop.jpg)
+   - *Schedule Page:*
+   ![Lighthouse statistic generated on Schedule page - desktop](docs/readme-images/schedule-desktop.jpg)
+   - *Sign Up Page*
+   ![Lighthouse statistic generated on Sign Up page - desktop](docs/readme-images/signup-desktop.jpg)
+
+ - Mobile:
+   - *About Page:*
+   ![Lighthouse statistic generated on About page - mobile]
+   - *Schedule Page:*
+   ![Lighthouse statistic generated on Schedule page - mobile]
+   - *Sign Up Page*
+   ![Lighthouse statistic generated on Sign Up page - mobile]
+
+
+
+
+
 ### **Manual Testing**
 ### **User Story Testing**
 
