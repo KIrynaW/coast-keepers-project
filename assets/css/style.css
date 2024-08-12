@@ -897,7 +897,8 @@ input::placeholder {
     color: rgba(234, 181, 165, 0.3);
 }
 
-input[type="radio"], input[type="checkbox"] {
+input[type="radio"],
+input[type="checkbox"] {
     margin: 5px;
 }
 
@@ -915,7 +916,8 @@ input[type="radio"], input[type="checkbox"] {
     justify-content: left;
 }
 
-.radio-options div, .checkbox-options div {
+.radio-options div,
+.checkbox-options div {
     padding: 3px 5px;
     margin-left: 10px;
 }
