@@ -431,21 +431,30 @@ Here are the key issues detected at the final stages of website completion and h
   - The website was run through [Wave](https://wave.webaim.org/) web accessibility evaluation tool, and few errors were found.
 
      - __Error 1: Form Label__
-     The issue was in the missing value in the label property
+     - The issue was in the missing value in the *label* property.
+
         ![First Error found in the html code](docs/readme-images/error1-formlabel.jpg)
 
-        **Solution:** a heading was created which then was hidden by adding a class and styling it to be hidden.
-        ![First Error solution code](docs/readme-images/error1-initialfix.jpg)
-       
-     - __Error 2: Justified Text__
+        - **Solution:** a *h2* with hidden-text *class* was created which then styled in stylesheets to apear hidden.
 
+           ![First Error solution code](docs/readme-images/error1-initialfix.jpg)
+           ![Hidden text solution CSS code](docs/readme-images/hidden-text.jpg)
+       
+     - __Error 2: Fully Justified Text__
+      
         ![Second Error found in the html code](docs/readme-images/error2.jpg)
-        ![Second error solution code](docs/readme-images/error2-fix.jpg)
+
+        - **Solution:** To wrap the *img* in a *div*.
+        
+           ![Second error solution code](docs/readme-images/error2-fix.jpg)
 
      - __Error 3: Missing Fieldset__
 
         ![Third Error found in the html code](docs/readme-images/error3.jpg)
-        ![Third error solution code](docs/readme-images/error3-fix.jpg)
+
+        - **Solution** Wrap the *label* and *input* in *fieldset* and use *legend*s.
+
+           ![Third error solution code](docs/readme-images/error3-fix.jpg)
 
 - The website was then run through the [W3C Markup Validation Tool](https://validator.w3.org/)
      - The *Index* page did not show any issue but the *About*, *Schedule*, *Sign Up* and *Submit-feedback* all showed the same errors:
