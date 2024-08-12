@@ -924,8 +924,7 @@ input[type="radio"], input[type="checkbox"] {
 .reset-button {
     font-size: 100%;
     background-color: rgba(19, 124, 124, 0.7);
-    margin-top: 20px;
-    margin-right: 40px;
+    margin: 15px 20px 10px 15px;
     color: #ffffff;
     padding: 10px 20px;
     border: 2px outset #e7dedb;
