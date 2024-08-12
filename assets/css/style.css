@@ -239,7 +239,6 @@ main {
 /* Video Section */
 #video {
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     /* Ensures the video expands across all screen sizes without using media queries */
     flex-basis: 310px;
