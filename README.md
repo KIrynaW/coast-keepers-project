@@ -402,7 +402,24 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
    
 
 ## **Testing Phase:**
+The testing and validation of the code was performed throughout the website creation, and overall no major issues were detected.
+Here are the key issues detected at the final stages of website completion:
+  - The website was run through [Wave](https://wave.webaim.org/) web accessibility evaluation tool, and few errors were found.
+    - __Error 1: Form Label__
+       ![First Error found in the html code](docs/readme-images/error1-formlabel.jpg)
+       ![First Error solution code](docs/readme-images/error1-initialfix.jpg)
+       - The
+    - __Error 2: Justified Text__
+       ![Second Error found in the html code](docs/readme-images/error2.jpg)
+       ![Second error solution code](docs/readme-images/error2-fix.jpg)
+    - __Error 3: Missing Fieldset__
+       ![Third Error found in the html code](docs/readme-images/error3.jpg)
+       ![Third error solution code](docs/readme-images/error3-fix.jpg)
+
+
+
 ### **Validator Testing**
+### ** Manual Testing**
 ### **Bugs**
 
 ## **Deployment:**
