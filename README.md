@@ -402,25 +402,77 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
    
 
 ## **Testing Phase:**
-The testing and validation of the code was performed throughout the website creation, and overall no major issues were detected.
-Here are the key issues detected at the final stages of website completion:
-  - The website was run through [Wave](https://wave.webaim.org/) web accessibility evaluation tool, and few errors were found.
-    - __Error 1: Form Label__
+The testing and validation of the code was performed throughout the website creation, and overall no major issues were detected:
+  - At first we will look at the issues and bugs encounteredat the final stages of the project completion and how they were fixed. 
+  - Then we will look at how the website performs once all issues were cleared.
+
+### **Bugs**
+Here are the key issues detected at the final stages of website completion and how they were fixed:
+ 
+ - The website was run through [Wave](https://wave.webaim.org/) web accessibility evaluation tool, and few errors were found.
+
+   - __Error 1: Form Label__
+
        ![First Error found in the html code](docs/readme-images/error1-formlabel.jpg)
        ![First Error solution code](docs/readme-images/error1-initialfix.jpg)
-       - The
+       
     - __Error 2: Justified Text__
+
        ![Second Error found in the html code](docs/readme-images/error2.jpg)
        ![Second error solution code](docs/readme-images/error2-fix.jpg)
+
     - __Error 3: Missing Fieldset__
+
        ![Third Error found in the html code](docs/readme-images/error3.jpg)
        ![Third error solution code](docs/readme-images/error3-fix.jpg)
 
+- The website was then run through the [W3C Markup Validation Tool](https://validator.w3.org/)
+    - The *Index* page did not show any issue but the *About*, *Schedule*, *Sign Up* and *Submit-feedback* all showed the same errors:
+
+       ![Two same errors across three website pages](docs/readme-images/error1-error4-validator.jpg)
+
+    - The first error was the same one that was highlighted by *Wave* evalutation tool, but the solution cleared the error in *Wave* but not in the *W3C Validator*.   
+    - The error  was resolved by placing **span** instead of the **h2** element, as it does not get recognised as an error becuase of its properties.
+
+       ![Final solution for the first error](docs/readme-images/error1-finalsolution.jpg)
+
+    - The fourth error, of the total error order, was a simple misplacement of the embedded *Font Awesome* Icon Kit.
+    - It was fixed by wrapping in in the **body** section, as it was outside wrapped in *html* element.
+
+       ![Fourth error code fix](docs/readme-images/error4-fix.jpg)
+
+    - The final, fifth error encoutered was when Manual Testing on *Google Chrome* and *Microsoft Edge* by using dev tool option.
+    - All pages but, the *Index* page were clear of errors.
+    - this error was hard to identify.
+
+       ![Fifth error in Chrome dev tool](docs/readme-images/error5.jpg)
+  
+    - The different sections of .html and .css code was isolated and tested to pinpoint the issue, with no result.
+
+       ![Error Five source of issue removed](docs/readme-images/error5-removevid.jpg)
+
+       ![Fifth error code in html](docs/readme-images/error5-code.jpg)
+
+- It was later discovered that it was a third party code error in the YouTube video source that was showing up, as when the embeded video link was removed, the error cleared.
+- No further action was required.
 
 
+  
+
+
+
+
+
+- ### Accessibility Testing:
+       
+
+      
+
+   
 ### **Validator Testing**
 ### ** Manual Testing**
-### **Bugs**
+- The website was also thoroughly checked on Chrome, Microsoft Edge and  dev tool was showing an 
+    
 
 ## **Deployment:**
 
