@@ -1,5 +1,5 @@
 # Welcome to Coast Keepers!
-The Coast Keepers website is a place where the local community of environmentally conscious people in Co. Kerry, Ireland can learn about the importance of coastal environment cleaning and preservation. Here, users can learn how they can help prevent further ocean pollution by cleaning their local beaches and are encouraged to sign up to participate in the local coast clean-up events. Our mission is to not only educate and encourage people to clean the local coastlines, but to also bring the local community together to strengthen intepersonal connections, meanwhile reconnecting people with our inherent relation to nature.
+The Coast Keepers website is a place where the local community of environmentally conscious people in Co. Kerry, Ireland can learn about the importance of coastal environment cleaning and preservation. Here, users can learn how they can help prevent further ocean pollution by cleaning their local beaches, and are encouraged to sign up to participate in the local coast clean-up events. Our mission is to not only educate and encourage people to clean the local coastlines, but to also bring the local community together to strengthen interersonal connections, meanwhile reconnecting people with our inherent relation to nature.
 
 ***
 
@@ -30,7 +30,7 @@ The Coast Keepers website is a place where the local community of environmentall
    * [***Bugs***](#bugs)
    * [***Validator Testing***](#validator-testing)
    * [***Accessibility Testing***](#accessibility-testing)
-   * [***Manul Testing***](#manual-testing)
+   * [***Manual Testing***](#manual-testing)
    * [***User Story Testing***](#user-story-testing)
    
 4. [**Deployment**](#deployment)
@@ -44,13 +44,13 @@ The Coast Keepers website is a place where the local community of environmentall
 ***
 
 ## **Exploration Phase:**
-In this decade we can observe increased desire in people in Ireland to care for their local environment. As part of our research, when talking to residents of coastal towns in county Kerry, the common topic of conversation often is the cleanliness of our local waterways and what can local community do to prevent water pollution. 
+In this decade we can observe increased desire in people in Ireland to care for their local environment. As part of our research, when talking to residents of coastal towns in county Kerry, the common topic of conversation often is the cleanliness of our local waterways and what can local communities do to prevent water pollution. 
 What is the first step? 
-Starting a website to educate and bring people together localy to help this environmental cause was the common answer.
+Starting a website to educate and bring people together locally to help this environmental cause was the common answer.
 
 Jackie, Listowel, Co. Kerry:
 
-> *I want to be able to go online and find a local group that I can join for environmental events, clean-ups and social engagement without going  Facebook. I love our environment and I want to learn more about how I can help.*
+> *I want to be able to go online and find a local group that I can join for environmental events, clean-ups and social engagement without going on Facebook. I love our environment and I want to learn more about how I can help.*
 
 Mairead, Ballyheigue, Co. Kerry:
 
@@ -58,28 +58,26 @@ Mairead, Ballyheigue, Co. Kerry:
 
 John, Ballylongford, Co. Kerry:
 
-> *I love our Kerry coasts and I enjoy surfing once in awhile. All I hear now is how microplastic is in everything and it really bothers me. I want to help somehow and join a group where we can learn and improve our local environment together.*
+> *I love our Kerry coasts and I enjoy surfing once in a while. All I hear now is how microplastic is in everything and it really bothers me. I want to help somehow and join a group where we can learn and improve our local environment together.*
 
 Deirdre, Community Development Officer, Banna, Co.Kerry:
 
-> *One of the aims of my job is to develop and encourage meaningful community engagement events. My organisation have been discussing importanse of our coastal environment. We would benefit from collaborating with any local environment groups and their events. Where can we find them?*
+> *One of the aims of my job is to develop and encourage meaningful community engagement events. My organization have been discussing importance of our coastal environment. We would benefit from collaborating with any local environment groups and their events. Where can we find them?*
 
 
 ### **User Experience(UX)**
 
 ***The Users :***  
+- Local community members and community development organizations of Co.Kerry, interested in bettering our environment and learning about coastal pollution prevention.
 
-- Local community members and community development organisations of Co.Kerry, interested in bettering our environment and learning about coastal pollution prevention.
-
-***The Purpouse of the Site :*** 
-
-- To spread awareness to the Co.Kerry community about coastal and water pollution, encourage to take part in coastline clean-ups and stimulate a meaningful community engagement events.
+***The Purpose of the Site :*** 
+- To spread awareness to the Co.Kerry community about coastal and water pollution, encourage them  to take part in coastline clean-ups and stimulate meaningful community engagement events.
 
 ### *User Stories :*
 
 - ***New Visitor:***
   1. I want to be able to understand what the aim of the website is from the landing page and enjoy the visual experience.
-     - *I know I can do it when there are clear, organised images and text explaining the goals of the website.*
+     - *I know I can do it when there are clear, organized image layout and text explaining the goals of the website.*
 
   2. I want to be able to navigate the website with ease.
      - *I know I can do it when the website has clear navigation names that direct to specific information.*
@@ -90,50 +88,50 @@ Deirdre, Community Development Officer, Banna, Co.Kerry:
 - ***Returning Visitor:***
 
   4. I want to be able to learn more about website owners and educate myself about the importance of coast cleaning and how I can help the cause.
-     - *I know I can do it if the website has a separate page where they go in more deapth about them and the environmental cause.*
+     - *I know I can do it if the website has a separate page where they go in more depth about them and the environmental cause.*
 
-  5. I want to be able to register my interest in the events, without fully commiting to the coast cleaning.
-     - *I know I can do it if the website has a form I can fill with my detail and specify my interest.*
+  5. I want to be able to register my interest in the events, without fully committing to the coast cleaning.
+     - *I know I can do it if the website has a form I can fill with my details and specify my interest.*
 
 - ***Frequent Visitor:***
 
-  6. I want to be able to find information about the locations and dates of cleaning events.
+  6. I want to be able to find information about the locations and dates of the cleaning events.
      - I know I can do it if the website has a separate page with a schedule of their events with dates, times and locations.
 
-  7. I want to be able to go to a location where I can meet organisers and get free cleaning gear for coast cleanups.
+  7. I want to be able to go to a location where I can meet organizers and get free cleaning gear for coast cleanups.
      - I know I can do it if the website has a map of their base location where I can drop in to meet them.
 
-  8. I want to be able to sign up to the specific location and date of cleaning event.
-     - I know I can do it if the website has a form where I can specify the location and date of clean up I can do.
+  8. I want to be able to sign up to the specific location and date of the cleaning event.
+     - I know I can do it if the website has a form where I can specify the location and date of the clean up I can do.
 
 ### *Goals :*
 
 - ***Goal User :*** 
-  - Learn about the importance of coastal enviroment preservation and pollution implications on our health. Take part in a beach cleaning, meet new people, social engagement, participation in new meaningful local events.
+  - Learn about the importance of coastal environment preservation and pollution implications on our health. Take part in a beach cleaning, meet new people, social engagement, participation in new meaningful local events.
 
 - ***Goal Site Owner :*** 
-   - Teach local communities in Co.Kerry about coastal environment preservation, spread awarenes about implication of coastal pollution and gain volunteers for the future cleanup events. Avertisment of clean up events and community engagement.
+   - Teach local communities in Co.Kerry about coastal environment preservation, spread awareness about implication of coastal pollution and gain volunteers for the future cleanup events. Advertisment of clean up events and community engagement.
 
 ### **User Interface(UI)**
 
-The Coast Keepers website has four pages that will engage the users with it's content.
+The Coast Keepers website has four pages that will engage the users with its content.
 
 - *Home Page:* 
-  - It briefly introduces the user to the ethos of the site owner, and what their social organisation can offer to their users. The header has a 'Learn More' call to action button, that takes the user to the 'About' page.
+  - It briefly introduces the user to the ethos of the site owner, and what their social organisation can offer to their users. The header has 'About Us' call to action button, that takes the user to the 'About' page.
 
 - *About Page:* 
-  - Here users learn more about the website owners and how Coast Keepers initiative has started. - They also learn more about the importanse of coastal cleaning and implication of pollution on environment.
+  - Here users learn more about the website owners and how Coast Keepers initiative has started. - They also learn more about the importanse of coastal cleaning and implications of pollution on environment.
 
 - *Schedule Page:* 
   - This page shows users the different beach locations in Co. Kerry and times and dates of the clean-up events. 
   - It also has an address, opening times and a map where it shows to users where they can go to collect their free cleaning gear.
 
 - *Sign Up Page:* 
-  - Here, users can imput their full name and email and sign up to one or more beach location cleaning events.
+  - Here, users can input their full name and email and sign up to one or more beach location cleaning events.
 
 - *All Page Headers*
   - Have a Logo on the left and menu section of all four pages on the right.
-  - The mobile version of the webiste has a icon that one can press to drop down toggle the menu bar.
+  - The mobile version of the webiste has an icon that one can press to drop down toggle the menu bar.
 
 - *All Page Footers:* 
   - All the footers on all pages have four action buttons that takes the user to external sites; the email, Facebook, Instagram and X(Twitter). 
@@ -210,13 +208,13 @@ The website is responsive on all screen types: Phones, Tablets and Laptops.
 
 This pallet was generated from [Coolors](https://coolors.co/)
   - This pallet reflects the beach and the ocean themes of the Coast Keepers website. 
-  - The dark teal and light beige and white are good contrasting colors and the peach adds an accent.
+  - The dark teal and light beige and white are good contrasting colors and the peach color adds an accent.
 
      ![Color Scheme chosen for the project](docs/readme-images/project-color-scheme.jpg)
 
 The pallet was then scored on contrast levels on [Contrast Grid](https://contrast-grid.eightshapes.com/).
-  - To make sure that the color combinations are not clashing and are suitable to use for accessability purpouses.
-  - Here are the generated contrast autcome of the pallet:
+  - To make sure that the color combinations are not clashing and are suitable to use for accessibility purposes.
+  - Here are the generated contrast of the palette:
 
      ![All color scheme colors in contrast](docs/readme-images/all-contrasts.jpg)
 
@@ -244,7 +242,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 - #### **Features Found on All Pages:**
   - Navigation:
      - The navigation bar is the same across all four pages. 
-     - It is fixed and has a litte gap at the top where the contents of the page can be seen when scrolling
+     - It is fixed and has a small gap at the top where the contents of the page can be seen when scrolling
      - It consists of a Logo on the left and four menu items that direct users to website pages.
 
         ![Header with Logo and Navigation](docs/readme-images/header.jpg)
@@ -254,7 +252,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
         ![Header Features - Logo](docs/readme-images/logo.jpg)
 
      - The menu section has two features; 
-     - The line undertheath indicates to the user the current page they are visiting.
+     - The line underneath indicates to the user, the current page they are visiting.
 
         ![Header Nav Hover Feature - About](docs/readme-images/navabout-selected.jpg)
 
@@ -271,7 +269,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
         ![Three Wave Navigation bar menu](docs/readme-images/navbar-phone.jpg)
              
   - __Footer:__
-     - The footer is the same across all page except for the *Sign Up* Page.
+     - The footer is the same across all pages except for the *Sign Up* Page.
        
         ![The footer of the website](docs/readme-images/footer-full.jpg)
 
@@ -288,7 +286,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
         ![Footer hover feature - Email](docs/readme-images/email-selected.jpg)<&nbsp;&nbsp;------->&nbsp;&nbsp;>
         ![Link to Gmail when Clicked](docs/readme-images/email-popup.jpg)
 
-     - The next three features are social media buttons  for *Facebook*, *Instagram*, *X-Twitter.
+     - The next three features are social media buttons for *Facebook*, *Instagram*, *X-Twitter.
      - When one is selected a new tab opens and the user is take to the chosen social media platform.
 
         ![Footer Social media buttons](docs/readme-images/footer-social-icons.jpg)&nbsp;&nbsp;------->&nbsp;&nbsp;
@@ -303,7 +301,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
 - #### Index(Home) Page
   - The *Home* landing page is where the users can get a glimpse of information about the website 
-    and understand their general goal.
+    and understand its general goal.
   - The colors used have a good contrast with beige and teal, without too much information given at 
     once, using peach color highlight in text borders and hover features.
   - Coast Keeper's Landing page has a large hero image that features a had picking up a plastic 
@@ -324,7 +322,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
   - After the mission statement, there is an outline about activities of the organisation that can be attractive to the user, further intising them to the cause.
   - A round image border is used to make the image stand out against the text. 
-  - The backround of the text is white and part of it is hidden behind the image to create an attractive design feature. 
+  - The background of the text is white and part of it is hidden behind the image to create an attractive design feature. 
   - As the screen stretches the images expand on the page.
 
      ![Index Page Activities Section](docs/readme-images/activities-feature.jpg)
@@ -335,11 +333,11 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
 - #### About Page
   - About page introduces the user to the story of how Coast Keepers initiative started.
-  - It has a pleasent visual story flow, with the eye traveling from the image to the left and then  text to the right.
+  - It has a pleasent visual story flow, with the eye traveling from the image to the left and then text to the right.
 
      ![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
 
-  - The *About Us* setion is followed by the *Reasons* section, with a strong heading and text explaining the ramifications of coastal pollution. 
+  - The *About Us* section is followed by the *Reasons* section, with a strong heading and text explaining the ramifications of coastal pollution. 
   - Here the user can learn about the importance of joining the cause.
   - The text is set against deep green background with white text which stands out and makes the content very effective.
 
@@ -347,22 +345,22 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
   - Furthe the *About* page expands on the topic of importance of the website's environmental cause, by listing four main reasons why the initiative of the website is important.
   - Here the information is more detailed and specific and gives the user deeper insight.
-  - This section is not too text heaavy, preventing information overload.
-  - The round image feature is carried through to About page for consistency.
-  - The text boxes contract and expand depending on the screen size.
+  - This section is not too text heavy, preventing information overload.
+  - The round image feature is carried through to *About* page for consistency.
+  - The text boxes contract and expand, depending on the screen size.
 
      ![Reasons why coast cleaning important section](docs/readme-images/reasons-feature.jpg)
 
 
 - #### Schedule Page
-  - The Schedule Section feautures 6 separate content boxes divided by white border and set against the opaque-gray background of Ballybunion beach photo.
+  - The Schedule Section feautures six separate content boxes, divided by white border and set against an opaque-gray background of Ballybunion beach photo.
   - The user can find the dates, times and beach locations of cleaning and surfing events that they may choose to participate in.
   - The content boxes expand and contract deending on the screen size.
 
      ![The Scedule feature of events](docs/readme-images/schedule-feature.jpg)
 
   - The *Schedule* page also feautures an imbedded google map with a pin location of the organisation
-  - There is a text box, notifying the user of items that they provide for users, the address and the opening times.
+  - There is a text box, notifying the user of gear that they provide for users, the address and the opening times.
   - Here the user can find a physical location where they can go and also explore on google maps.
   - It provides the times when the user can drop in, and encourages the user to come without having to get in contact first, as no phone number is provided.
 
@@ -371,7 +369,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 - #### Sign Up Page
   - The *Sign Up* page is a very important feauture of the website.
   - It is set agains an image that has the same color scheme as the website.
-  - The form border is peach and the form is gray and they are both opaque so the image can be fainly seen in the background. 
+  - The form border is peach and the form is gray color and they are both opaque so the image can be faintly seen in the background. 
   - The heading color is peach to compliment the border and main text color is beige to allow content stand out against its background.
 
      ![Sign Up Form](docs/readme-images/form-feature.jpg)
@@ -391,7 +389,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
      ![Radio button feature](docs/readme-images/radio-feature.jpg)
 
   - The form also has a checkbox feature.
-  - It gives users an optional choice to chose one of the location events.
+  - It gives users an optional choice of one of the location events.
   - The options are named after the beach locations the events are taking place, corresponding with the schedule on the *Schedule* page. 
   - The selection of checbox boxes is not obligatory for succesful submition.
   - If the user is intersted they can select one or more boxes.
@@ -420,10 +418,9 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
   - A live chat section where like minded environmentalists can talk.
 
    
-
 ## **Testing Phase:**
 The testing and validation of the code was performed throughout the website creation, and overall no major issues were detected:
-  - At first we will look at the issues and bugs encounteredat the final stages of the project completion and how they were fixed. 
+  - At first we will look at the issues and bugs encountered at the final stages of the project completion and how they were fixed. 
   - Then we will look at how the website performs once all issues were cleared.
 
 ### **Bugs**
@@ -467,7 +464,7 @@ Here are the key issues detected at the final stages of website completion and h
         ![Final solution for the first error](docs/readme-images/error1-finalsolution.jpg)
 
      - The fourth error, of the total error order, was a simple misplacement of the embedded *Font Awesome* Icon Kit.
-     - It was fixed by wrapping in in the **body** section, as it was outside wrapped in *html* element.
+     - It was fixed by wrapping it in the **body** element, as it was outside wrapped in *html* element.
 
         ![Fourth error code fix](docs/readme-images/error4-fix.jpg)
 
@@ -477,13 +474,13 @@ Here are the key issues detected at the final stages of website completion and h
 
         ![Fifth error in Chrome dev tool](docs/readme-images/error5.jpg)
   
-     - The different sections of .html and .css code was isolated and tested to pinpoint the issue, with no result.
+     - The different sections of .html and .css code were isolated and tested to pinpoint the issue, with no result.
 
         ![Error Five source of issue removed](docs/readme-images/error5-removevid.jpg)
 
         ![Fifth error code in html](docs/readme-images/error5-code.jpg)
 
-- It was later discovered that it was a third party code error in the YouTube video source that was showing up, as when the embeded video link was removed, the error cleared.
+- It was later discovered that it was a third party code error in the YouTube video source that was showing up, and when the embeded video link was removed, the error cleared.
 - No further action was required.
 
 ### **Validator Testing**  
@@ -520,7 +517,7 @@ All Website Pages and CSS Style Sheet was clear of errors.
 To check the website *Performance*, *Accessibility*, *Best Practice* and *SEO*, the website was run through the *Lighthouse* Chrome Dev Tools performance statistics generator.
 
 - A low performance was noticed in the general website and *Index* page perforance statistic.
-- It was deduced that the reason for reduced performance was the embeded YouTube video in the *Index* page.
+- It was discovered, that the reason for reduced performance was the embeded YouTube video in the *Index* page.
   - Desktop:
 
      ![General Website Lighthouse statistic generated with YouTube video inluded - Desktop](docs/readme-images/general-desktop.jpg)&nbsp;&nbsp;
@@ -541,7 +538,7 @@ To check the website *Performance*, *Accessibility*, *Best Practice* and *SEO*, 
 
      ![General Website Lighthouse statistic generated without the YouTube video - Phone](docs/readme-images/general-mobile-novid.jpg)
 
-Despite the performance being reduced, the decision was made to keep the embeded YouTube video, as it added value to the website.
+Despite the performance being reduced, the decision was made to keep the embeded YouTube video, as it adds value to the website.
 
 The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* statistic generator and scored high.
   - Desktop:
@@ -582,7 +579,7 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   - **Website Links**
      - All the iternal and external links were tested on phones and laptops as well as *Chrome* , *Edge* and Firefox Browsers. 
      - Results showed that all links are in working order and no link is broken. 
-     - No other issues were detected.
+     - No issues were detected.
 
   - **Website Form**
      - The test was conducted to make sure that when the form is submitted it triggers a correct response and takes the user to the designated location on the website.
@@ -595,14 +592,14 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   1. I want to be able to understand what the aim of the website is from the landing page and enjoy the visual experience.
      - *I know I can do it when there are clear, organised images and text explaining the goals of the website.*
 
-        > **Evidence:** --> The landing page has a clear graphic depicting a hand picking plastic bottle from the ocean, which is in line with websites mission theme and is an effective visual communication. The slogan "Nurture Your Coasts with Coast Keepers" further indicates that it is an environmentalist website. The 'About Us' button allows the user to eplore further into the website from the landing page. The design is clean and soft colors are used.
+        > **Evidence:** --> The landing page has a clear graphic depicting a hand picking plastic bottle from the ocean, which is in line with websites mission theme and is an effective visual communication. The slogan "Nurture Your Coasts with Coast Keepers" further indicates that it is an environmentalist website. The 'About Us' button allows the user to explore further into the website from the landing page. The design is clean and soft colors are used.
         >
         ![Index Page Hero Image and text](docs/readme-images/landing-page.jpg)
 
   2. I want to be able to navigate the website with ease. 
      - *I know I can do it when the website has clear navigation names that direct to specific information.*
 
-        > **Evidence:** --> The Navigation bar menu has a clear font, with well spaced out letters in all four page names. The color scheme choise in the nav bar with white background and dark grey font makes it stand out among other features on the website. Navigation bar is stuck to the top of the page when the user scrolls through the website. The hover highlight on menu items helps user see what page they are selecting and the underline feature indicates what page they are currently on.
+        > **Evidence:** --> The Navigation bar menu has a clear font, with well spaced out letters in all four page names. The color scheme choice in the nav bar with white background and dark grey font makes it stand out among other features on the website. Navigation bar is stuck to the top of the page when the user scrolls through the website. The hover highlight on menu items helps user see what page they are selecting and the underline feature indicates what page they are currently on.
         >
         ![Header with Logo and Navigation](docs/readme-images/header.jpg)
         >
@@ -622,7 +619,7 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   4. I want to be able to learn more about website owners and educate myself about the importance of coast cleaning and how I can help the cause.
      - *I know I can do it if the website has a separate page where they go in more deapth about them and the environmental cause.*
 
-        > **Evidence:** --> The website has an "About" page that can be accessed from the landing page, be selecting an "About Us" clickable link without going throug the "Index/Home" page, and offers more in depth information about the organisers and the cause.
+        > **Evidence:** --> The website has an "About" page that can be accessed from the landing page, by selecting an "About Us" clickable link without going throug the "Index/Home" page, and offers more in depth information about the organizers and the cause.
         >
         ![About Us button feature](docs/readme-images/aboutus-selected.jpg)
         ![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
@@ -631,7 +628,7 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   5. I want to be able to register my interest in the events, without fully commiting to the coast cleaning.
      - *I know I can do it if the website has a form I can fill with my detail and specify my interest.*
 
-        > **Evidence:** --> on the *Sign Up* page of the website, the user can fill in their details, without fully commiting to the cause and can choose a "Join our team in the future" or "Observe our cause for now" option.
+        > **Evidence:** --> on the *Sign Up* page of the website, the user can fill in their details, without fully committing to the cause and can choose a "Join our team in the future" or "Observe our cause for now" option.
         >
         ![Radio button feature](docs/readme-images/radio-feature.jpg)
 
@@ -662,7 +659,7 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   4. On the left hand side, press the *"Pages"* tab.
   5. Locate the **"Source"** section and make sure it is set to "Deploy from Branch".
   6. Next, under the **"Branch"** section, extend the drop-down list and select "Main".
-  7. The page then automatically confirms successful deployment and displays a link to the website.
+  7. The page then automatically updates, confirms successful deployment and displays a link to the website.
 
   A live link to the website can be found here: [Coast Keepers](https://kirynaw.github.io/coast-keepers-project/)
 
@@ -706,10 +703,3 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
 ### **Acknowledgements**
 - I would like to give special thank you to my mentor Daniel Hamilton, for giving great resources, guiding, teaching and supporting me through this project.
 - Also would like to thank Code Institute for their dedication to their students, wonderful educational material and valuable resources.
-
-
-
-
-
-
-
