@@ -256,7 +256,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
         ![Header Nav Hover Feature - About](docs/readme-images/navabout-selected.jpg)
 
-     - The hover feature alows the user to highlight the page in the menu they want to visit next.
+     - The hover feature allows the user to highlight the page in the menu they want to visit next.
 
         ![Header Nav Hover Feature - Schedule](docs/readme-images/navschedule-selected.jpg)
 
@@ -309,7 +309,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
      ![Index Page Hero Image and text](docs/readme-images/landing-page.jpg)
 
-  - The moto indicates that this website is about an environmental cause.
+  - The motto indicates that this website is about an environmental cause.
   - This section has a button feature that directs the user to learn *About Us*, the founders and the cause itself, without scroll any further.
   - When the mouse hovers over the *About Us* button it highlights by changing color.
 
@@ -320,7 +320,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
      ![Mission of the website text](docs/readme-images/mission-text.jpg)
 
-  - After the mission statement, there is an outline about activities of the organisation that can be attractive to the user, further intising them to the cause.
+  - After the mission statement, there is an outline about activities of the organization that can be attractive to the user, further enticing them to the cause.
   - A round image border is used to make the image stand out against the text. 
   - The background of the text is white and part of it is hidden behind the image to create an attractive design feature. 
   - As the screen stretches the images expand on the page.
@@ -333,7 +333,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
 - #### About Page
   - About page introduces the user to the story of how Coast Keepers initiative started.
-  - It has a pleasent visual story flow, with the eye traveling from the image to the left and then text to the right.
+  - It has a pleasant visual story flow, with the eye traveling from the image to the left and then text to the right.
 
      ![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
 
@@ -343,7 +343,7 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
      ![Text about why one should join the cause](docs/readme-images/whyjoin-text.jpg)
 
-  - Furthe the *About* page expands on the topic of importance of the website's environmental cause, by listing four main reasons why the initiative of the website is important.
+  - Further, the *About* page expands on the topic of importance of the website's environmental cause, by listing four main reasons why the initiative of the website is important.
   - Here the information is more detailed and specific and gives the user deeper insight.
   - This section is not too text heavy, preventing information overload.
   - The round image feature is carried through to *About* page for consistency.
@@ -353,13 +353,13 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
 
 - #### Schedule Page
-  - The Schedule Section feautures six separate content boxes, divided by white border and set against an opaque-gray background of Ballybunion beach photo.
+  - The Schedule Section features six separate content boxes, divided by white border and set against an opaque-gray background of Ballybunion beach photo.
   - The user can find the dates, times and beach locations of cleaning and surfing events that they may choose to participate in.
-  - The content boxes expand and contract deending on the screen size.
+  - The content boxes expand and contract depending on the screen size.
 
-     ![The Scedule feature of events](docs/readme-images/schedule-feature.jpg)
+     ![The Schedule feature of events](docs/readme-images/schedule-feature.jpg)
 
-  - The *Schedule* page also feautures an imbedded google map with a pin location of the organisation
+  - The *Schedule* page also features an embedded google map with a pin location of the organisation
   - There is a text box, notifying the user of gear that they provide for users, the address and the opening times.
   - Here the user can find a physical location where they can go and also explore on google maps.
   - It provides the times when the user can drop in, and encourages the user to come without having to get in contact first, as no phone number is provided.
@@ -367,8 +367,8 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
      ![The pin location map feature of the page](docs/readme-images/map-feature.jpg)
 
 - #### Sign Up Page
-  - The *Sign Up* page is a very important feauture of the website.
-  - It is set agains an image that has the same color scheme as the website.
+  - The *Sign Up* page is a very important feasture of the website.
+  - It is set against an image that has the same color scheme as the website.
   - The form border is peach and the form is gray color and they are both opaque so the image can be faintly seen in the background. 
   - The heading color is peach to compliment the border and main text color is beige to allow content stand out against its background.
 
@@ -376,12 +376,12 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
   - On this page, the users can register their interest in the website's environmenal cause.
   - The user is required to fill out their general details.
-  - The form in this page has a feauture where the users have to fill ot their First Name, Last Name and Email address.
+  - The form in this page has a feature where the users have to fill ot their First Name, Last Name and Email address.
   - If the user does not fill one of those detail fields, they cannot submit the form.
 
-     ![Esential details of the form - Name](docs/readme-images/emptyfield-one.jpg)
-     ![Esential details of the form - Surname](docs/readme-images/emptyfield-two.jpg)
-     ![Esential details of the form - Email](docs/readme-images/emptyfield-three.jpg)
+     ![Essential details of the form - Name](docs/readme-images/emptyfield-one.jpg)
+     ![Essential details of the form - Surname](docs/readme-images/emptyfield-two.jpg)
+     ![Essential details of the form - Email](docs/readme-images/emptyfield-three.jpg)
 
   - The radio feature gives users a choice whether they want to join the cause now, later or simply observe.
   - One answer is automatically preselected, they simply have to choose one that suits the user most.
@@ -391,8 +391,8 @@ The fonts were taken from [Google Fonts](https://fonts.google.com/)
   - The form also has a checkbox feature.
   - It gives users an optional choice of one of the location events.
   - The options are named after the beach locations the events are taking place, corresponding with the schedule on the *Schedule* page. 
-  - The selection of checbox boxes is not obligatory for succesful submition.
-  - If the user is intersted they can select one or more boxes.
+  - The selection of chechbox boxes is not obligatory for successful submission.
+  - If the user is interested they can select one or more boxes.
     
      ![Checkbox selection feature](docs/readme-images/checkbox-feature.jpg)
 
@@ -454,12 +454,12 @@ Here are the key issues detected at the final stages of website completion and h
            ![Third error solution code](docs/readme-images/error3-fix.jpg)
 
 - The website was then run through the [W3C Markup Validation Tool](https://validator.w3.org/)
-     - The *Index* page did not show any issue but the *About*, *Schedule*, *Sign Up* and *Submit-feedback* all showed the same errors:
+     - The *Index* page did not show any issues but the *About*, *Schedule*, *Sign Up* and *Submit-feedback* all showed the same errors:
 
         ![Two same errors across three website pages](docs/readme-images/error1-error4-validator.jpg)
 
-     - The first error was the same one that was highlighted by *Wave* evalutation tool, but the solution cleared the error in *Wave* but not in the *W3C Validator*.   
-     - The error  was resolved by placing **span** instead of the **h2** element, as it does not get recognised as an error becuase of its properties.
+     - The first error was the same one that was highlighted by *Wave* evaluation tool, but the solution cleared the error in *Wave* but not in the *W3C Validator*.   
+     - The error  was resolved by placing **span** instead of the **h2** element, as it does not get recognised as an error becauase of its properties.
 
         ![Final solution for the first error](docs/readme-images/error1-finalsolution.jpg)
 
@@ -468,7 +468,7 @@ Here are the key issues detected at the final stages of website completion and h
 
         ![Fourth error code fix](docs/readme-images/error4-fix.jpg)
 
-     - The final, fifth error encoutered was when Manual Testing on *Google Chrome* and *Microsoft Edge* by using dev tool option.
+     - The final, fifth error encountered was when Manual Testing on *Google Chrome* and *Microsoft Edge* by using dev tool option.
      - All pages but, the *Index* page were clear of errors.
      - This error was hard to identify.
 
@@ -517,7 +517,7 @@ All Website Pages and CSS Style Sheet was clear of errors.
 To check the website *Performance*, *Accessibility*, *Best Practice* and *SEO*, the website was run through the *Lighthouse* Chrome Dev Tools performance statistics generator.
 
 - A low performance was noticed in the general website and *Index* page perforance statistic.
-- It was discovered, that the reason for reduced performance was the embeded YouTube video in the *Index* page.
+- It was discovered, that the reason for reduced performance was the embedded YouTube video in the *Index* page.
   - Desktop:
 
      ![General Website Lighthouse statistic generated with YouTube video inluded - Desktop](docs/readme-images/general-desktop.jpg)&nbsp;&nbsp;
@@ -528,7 +528,7 @@ To check the website *Performance*, *Accessibility*, *Best Practice* and *SEO*, 
      ![General Website Lighthouse statistic generated with YouTube video inluded - Phone](docs/readme-images/general-mobile.jpg)&nbsp;&nbsp;
      ![Index Page Lighthouse statistic generated with YouTube video included - Phone](docs/readme-images/index-mobile.jpg)
 
-- For testing purpouse, the video was removed and Lihthouse report was generated again and the performance was improved.
+- For testing purpose, the video was removed and *Lihgthouse* report was generated again and the performance was improved.
    
   - Desktop:
 
@@ -538,7 +538,7 @@ To check the website *Performance*, *Accessibility*, *Best Practice* and *SEO*, 
 
      ![General Website Lighthouse statistic generated without the YouTube video - Phone](docs/readme-images/general-mobile-novid.jpg)
 
-Despite the performance being reduced, the decision was made to keep the embeded YouTube video, as it adds value to the website.
+Despite the performance being reduced, the decision was made to keep the embedded YouTube video, as it adds value to the website.
 
 The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* statistic generator and scored high.
   - Desktop:
@@ -572,8 +572,8 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
      - Testing was conducted across three different web browsers; *Chrome*, *Edge* and *Firefox* to ensure that the website works correctly on differen browsers. 
      - No issues were detected.
 
-  - **Website Responsivenes** 
-     - Reponsiveness of the website was tested on various Phones, Tablets, Laptops and a Desktop to check for any errors. 
+  - **Website Responsiveness** 
+     - Responsiveness of the website was tested on various Phones, Tablets, Laptops and a Desktop to check for any errors. 
      - The results confirmed that the website is fully responsive across all device screens.
 
   - **Website Links**
