@@ -654,8 +654,17 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
         >
         ![Checkbox selection feature](docs/readme-images/checkbox-feature.jpg)
 
-    
 ## **Deployment:**
+### The following steps were take to deploy the website to GitHub pages:
+  1. Log in to [GitHub](https://github.com/)
+  2. Use navigation to locate [KIrynaW/coast-keepers-project](https://github.com/KIrynaW/coast-keepers-project) in *"Your Repositories"*.
+  3. In the selected repository press the *"Settings"* tab.
+  4. On the left hand side, press the *"Pages"* tab.
+  5. Locate the **"Source"** section and make sure it is set to "Deploy from Branch".
+  6. Next, under the **"Branch"** section, extend the drop-down list and select "Main".
+  7. The page then automatically confirms successful deployment and displays a link to the website.
+
+  A live link to the website can be found here: [Coast Keepers](https://kirynaw.github.io/coast-keepers-project/)
 
 ## **Credits:**
 ### **Digital Tools Used**
