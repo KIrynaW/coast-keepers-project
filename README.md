@@ -577,14 +577,14 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
      - The results confirmed that the website is fully responsive across all device screens.
 
   - **Website Links**
-     - All the iternal and external links were tested on phones and laptops as well as *Chrome* , *Edge* and Firefox Browsers. 
+     - All the internal and external links were tested on phones and laptops as well as *Chrome* , *Edge* and Firefox Browsers. 
      - Results showed that all links are in working order and no link is broken. 
      - No issues were detected.
 
   - **Website Form**
      - The test was conducted to make sure that when the form is submitted it triggers a correct response and takes the user to the designated location on the website.
-     - It was tested that all the radio buttons and checkbox buttons work correctly and when the compulsary text input fields are not filled it notifies the user.
-     - The Restore button was tested to ensure it clears the data that was inputed.
+     - It was tested that all the radio buttons and checkbox buttons work correctly and when the compulsory text input fields are not filled it notifies the user.
+     - The Restore button was tested to ensure it clears the data that was input.
      - The results of these test showed no issues.
 
 ### **User Story Testing**
@@ -599,7 +599,7 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   2. I want to be able to navigate the website with ease. 
      - *I know I can do it when the website has clear navigation names that direct to specific information.*
 
-        > **Evidence:** --> The Navigation bar menu has a clear font, with well spaced out letters in all four page names. The color scheme choice in the nav bar with white background and dark grey font makes it stand out among other features on the website. Navigation bar is stuck to the top of the page when the user scrolls through the website. The hover highlight on menu items helps user see what page they are selecting and the underline feature indicates what page they are currently on.
+        > **Evidence:** --> The Navigation bar menu has a clear font, with well spaced out letters in all four page names. The color scheme choice in the nav bar with white background and dark gray font makes it stand out among other features on the website. Navigation bar is stuck to the top of the page when the user scrolls through the website. The hover highlight on menu items helps user see what page they are selecting and the underline feature indicates what page they are currently on.
         >
         ![Header with Logo and Navigation](docs/readme-images/header.jpg)
         >
@@ -619,7 +619,7 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   4. I want to be able to learn more about website owners and educate myself about the importance of coast cleaning and how I can help the cause.
      - *I know I can do it if the website has a separate page where they go in more deapth about them and the environmental cause.*
 
-        > **Evidence:** --> The website has an "About" page that can be accessed from the landing page, by selecting an "About Us" clickable link without going throug the "Index/Home" page, and offers more in depth information about the organizers and the cause.
+        > **Evidence:** --> The website has an "About" page that can be accessed from the landing page, by selecting an "About Us" clickable link without going through the "Index/Home" page, and offers more in depth information about the organizers and the cause.
         >
         ![About Us button feature](docs/readme-images/aboutus-selected.jpg)
         ![About Us text and photo of the team](docs/readme-images/aboutus-feature.jpg)
@@ -639,7 +639,7 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
         >
         ![The Scedule feature of events](docs/readme-images/schedule-feature.jpg)
           
-  7. I want to be able to go to a location where I can meet organisers and get cleaning gear for coast cleanups.
+  7. I want to be able to go to a location where I can meet organizers and get cleaning gear for coast cleanups.
      - *I know I can do it if the website has a map of their base location where I can drop in to meet them.*
         > **Evidence:** --> The "Schedule" page of the website has a Location section with an embeded Google Map with a pined location and the Opening Times during which the user can go and collect the free cleaning gear.
         >
@@ -647,7 +647,7 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
 
   8. I want to be able to sign up to the specific location and date of cleaning event.
      - *I know I can do it if the website has a form where I can specify the location and date of clean up I can join.*
-        > **Evidence:** --> In the "Sign Up" page of the webiste the user can choose one or more beach clean-up event locations that they are interested in joining. They can select those choices when filling out the form.
+        > **Evidence:** --> In the "Sign Up" page of the website the user can choose one or more beach clean-up event locations that they are interested in joining. They can select those choices when filling out the form.
         >
         ![Checkbox selection feature](docs/readme-images/checkbox-feature.jpg)
 
