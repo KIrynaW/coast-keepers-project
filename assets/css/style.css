@@ -1,10 +1,5 @@
-/*>>>>>>>>>>>>>>>>>>>>>>>>> General Styles  <<<<<<<<<<<<<<<<<<<<<<<<*/
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
-
-/* Imported Google fonts - Barlow and Roboto Slab */
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bebas+Neue&display=swap');
 
-/* Default browser styles override */
 * {
     padding: 0;
     margin: 0;
@@ -36,14 +31,10 @@ h3 {
     display: none;
 }
 
-/*======================= End of General Styles =============================*/
-/*===========================================================================*/
+/* ===== Index + Header + Footer Styles ===== */
 
-/*>>>>>>>>>>>>>>>>>>>>>>>>> Styles for Index Page and All Headers + Footers <<<<<<<<<<<<<<<<<<<<<<<<*/
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+/* Header */
 
-
-/****  Header ****/
 header {
     background-color: #ffffff;
     padding: 0 1rem 0 0.5rem;
@@ -51,13 +42,11 @@ header {
     position: fixed;
     top: 10px;
     z-index: 99;
-    /* Created 2 color gradient to visualy connect the highlight element on nav bar */
     box-shadow: 0 3px 2px -2px #45444b, 0 5px 2px -2px #eab5a5;
     border-top: 2px solid rgba(69, 68, 75, 0.7);
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 header a {
@@ -76,7 +65,8 @@ header a {
     padding: 0.5rem 0;
 }
 
-/* Page navigation */
+/* Navigation */
+
 #menu {
     font-size: 120%;
     list-style-type: none;
@@ -92,7 +82,6 @@ header a {
     background: linear-gradient(to top, #eab5a5 10%, transparent 5%);
 }
 
-/* NavigationBar styles with dropdown toggle */
 nav {
     position: absolute;
     background-color: #ffffff;
@@ -104,7 +93,6 @@ nav {
     top: 100%;
 }
 
-/* Navigation Dropdown Menu */
 #nav-dropdown:checked~nav {
     display: block;
 }
@@ -115,21 +103,17 @@ nav {
 
 .nav-dropdown-label {
     font-size: 1.5rem;
-
 }
 
+/* Main Content */
 
-/**** Main Content ****/
 main {
-    /* Increase the main section to push the footer down */
     flex: 1 0 auto;
     margin-top: 79px;
-    /*Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
 }
 
-/* Hero image */
 #hero-image {
     height: 600px;
     width: 100%;
@@ -142,16 +126,13 @@ main {
     font-size: 120%;
     position: absolute;
     bottom: 80px;
-    /* Make the into-text stick to the left of the page */
     width: 85%;
     right: 5px;
     padding: 10px;
     min-height: 100px;
     text-align: right;
-    /* Make the corners rounded */
     border-radius: 20px;
     margin-bottom: 3%;
-
 }
 
 #intro-text h3 {
@@ -180,7 +161,6 @@ main {
     color: #ffffff;
 }
 
-/* Mission Section */
 #mission {
     text-align: right;
     border: 2px solid #eab5a5;
@@ -188,7 +168,6 @@ main {
     margin: 50px 20px;
     padding: 30px 20px 25px 20px;
     border-radius: 20px;
-
 }
 
 #mission h2 {
@@ -197,7 +176,6 @@ main {
 
 #intro-activities {
     display: flex;
-    /* Make sure the image placing is responsive to all screens */
     flex-wrap: wrap;
     justify-content: center;
     text-align: justify;
@@ -209,43 +187,33 @@ main {
     flex-basis: 300px;
     flex-grow: 1;
     max-width: 400px;
-
 }
 
 .intro-snaps img {
-    /* Makes the image round */
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
     width: 515px;
     height: 515px;
-    /* Gives border shadow around images */
     box-shadow: 2px 3px 3px #45444b, 2px 3px 3px #eab5a5;
 }
 
 .snap-text {
     border: 2px solid #137C7C;
     background-color: #ffffff;
-    /* Rounded edges */
     border-radius: 20px;
     text-align: center;
     padding: 40px 20px 40px 20px;
-    /* Creates an overlap-the image covers the top of text border */
     margin: -30px 30px 10px 30px;
 }
 
-
-
-/* Video Section */
 #video {
     display: flex;
     flex-direction: column;
-    /* Ensures the video expands across all screen sizes without using media queries */
     flex-basis: 310px;
     flex-grow: 1;
     justify-content: center;
     align-items: center;
-
 }
 
 #video-text {
@@ -253,7 +221,6 @@ main {
     border-radius: 20px;
     margin: 15px;
     padding: 10px;
-
 }
 
 #video-text>h3 {
@@ -277,11 +244,10 @@ main {
     border: 0;
     background-color: #ffffff;
     border-radius: 5px;
-
 }
 
+/* Footer */
 
-/**** Footer ****/
 #our-social-web {
     background-color: #137C7C;
     border-top: 2px solid rgb(81, 81, 89, 0.7);
@@ -292,7 +258,6 @@ main {
     align-items: center;
     list-style-type: none;
     font-size: 80%;
-
 }
 
 #our-social-web i {
@@ -317,24 +282,13 @@ main {
     padding-top: 1rem;
 }
 
-
-/*+++++ Media Responsivness +++++*/
-
-/* For large phone screens (425px and up) */
 @media screen and (min-width: 425px) {
-
-    /*** Main Content ***/
-    /* Video Section */
     #video h3 {
         font-size: 140%;
     }
-
 }
 
-/* For tablets and larger screens (768px and up) */
 @media screen and (min-width: 768px) {
-
-    /*** Header ***/
     nav {
         display: block;
         position: relative;
@@ -364,32 +318,24 @@ main {
         padding: 10px;
     }
 
-    /*** Main Content ***/
-    /* Hero Section */
     #intro-text {
         width: 300px;
         right: 10px;
         padding: 20px;
     }
 
-    /* Video Section */
     #video p {
         margin: 10px 15%;
     }
-
 }
 
-/* For laptops and desctop screens (992px and up) */
 @media screen and (min-width: 992px) {
-
-    /*** Header ***/
     #menu>li {
         letter-spacing: 4px;
         margin-right: 20px;
     }
 
     #menu a:hover {
-        /* Created a 2 color gradient for visual interest */
         background: linear-gradient(to top, #eab5a5 40%, transparent 35%);
 
     }
@@ -398,22 +344,18 @@ main {
         font-size: 2.5rem;
     }
 
-    /*** Main Content ***/
-    /* Hero Section */
     #intro-text {
         width: 350px;
         right: 10px;
         bottom: 100px;
         padding: 20px;
         font-size: 1.5rem;
-
     }
 
     .learn-more {
         font-size: 1rem;
     }
 
-    /* Mission Section*/
     #mission {
         width: 60%;
         text-align: center;
@@ -426,41 +368,25 @@ main {
         line-height: 28px;
     }
 
-
-    /* Video Section */
     #video h3 {
         font-size: 160%;
     }
 }
 
-
-/* For extra large laptops and desktop screens (2200px and up) */
 @media screen and (min-width: 2200px) {
-
-    /*** Main Content ***/
-    /* Mission */
     #mission {
         width: 40%;
         text-align: center;
         margin-left: 30%;
     }
-
 }
 
+/* ===== About Page Styles ===== */
 
-/*======================= End of Styles for Index Page and All Headers + Footers =======================*/
-/*======================================================================================================*/
-
-/*>>>>>>>>>>>>>>>>>>>>>>>>> About Page Styles<<<<<<<<<<<<<<<<<<<<<<<<*/
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<*/
-
-/*** Main Content ***/
-/* About Organisers Section */
 #about-us {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
 }
 
 #about-photo>img {
@@ -470,12 +396,10 @@ main {
     max-height: 450px;
     border-radius: 20px;
     margin-top: 10px;
-
 }
 
 #about-text {
     text-align: left;
-    /* to cover the width of the image */
     max-width: 600px;
     object-fit: cover;
     padding: 20px;
@@ -492,8 +416,6 @@ main {
     margin-top: 10px;
 }
 
-
-/* Reasons Section */
 #reasons {
     width: 90%;
     margin: 20px auto;
@@ -550,7 +472,6 @@ main {
     padding: 20px;
     width: 100%;
     border-radius: 20px;
-
 }
 
 #img-top,
@@ -564,19 +485,13 @@ main {
 #img-bottom>img {
     height: 60vw;
     width: 60vw;
-    /* Make the square circle */
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
     box-shadow: 2px 3px 2px #45444b, 3px 5px 2px #eab5a5;
 }
 
-/*+++++ Media Responsivness +++++*/
-
-/* For tablets and larger screens (768px and up) */
 @media screen and (min-width: 768px) {
-    /* Reasons Section */
-
     #health,
     #ecology {
         display: flex;
@@ -588,20 +503,15 @@ main {
         width: 75%;
     }
 
-    /* About Section */
     #about-us {
         line-height: 28px;
     }
 }
 
-/* For laptop and desktop screens (1200px and up) */
 @media screen and (min-width: 1200px) {
-
-    /* Reasons Section */
     #why-join {
         max-width: 80%;
         margin: 0 10%;
-
     }
 
     #health,
@@ -621,19 +531,16 @@ main {
     #health p,
     #health h3 {
         text-align: right;
-
     }
 
     #ecology p,
     #ecology h3 {
         text-align: left;
-
     }
 
 
     #img-top>img {
         margin: 20px 0;
-
     }
 
     #img-bottom>img {
@@ -641,20 +548,13 @@ main {
     }
 }
 
-/* For large laptops and desktop screens (1440px and up) */
 @media screen and (min-width: 1440px) {
-
-    /*** Main Content ***/
-    /* About Organisers Section */
     #about-text {
         padding: 20px 30px;
-
     }
 
-    /* Reasons Section */
     #img-top>img {
         margin: 0 20px;
-
     }
 
     #img-bottom>img {
@@ -665,28 +565,19 @@ main {
     #ecology>div {
         max-width: 900px;
     }
-
 }
 
-/*======================= End of About Page Styles =======================*/
-/*========================================================================*/
+/* ===== Schedule Page Styles ===== */
 
-/*>>>>>>>>>>>>>>>>>>>>>>>>> Schedule Page Styles<<<<<<<<<<<<<<<<<<<<<<<<*/
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<*/
-
-/*** Main Content ***/
-/* Schedule Section */
 #schedule h2 {
     padding: 20px;
     margin-top: 20px;
     text-align: center;
     font-size: 160%;
-
 }
 
 #season-schedule {
     background: url("../images/nunsbeach-stretched.webp") no-repeat center/cover;
-    /* Flex adds responsivity */
     border-radius: 20px;
     display: flex;
     flex-wrap: wrap;
@@ -697,16 +588,12 @@ main {
     background-color: rgba(69, 68, 75, 0.7);
     padding: 15px;
     text-align: center;
-    /* divs will expand to take up leftover space */
     flex-basis: 300px;
     flex-grow: 1;
-    /* creates a divide between divs */
     border: 2px solid #ffffff;
     border-radius: 10px;
-
 }
 
-/* Location Section */
 #location {
     padding-top: 40px;
 }
@@ -733,7 +620,6 @@ main {
 #location-container div {
     margin: 10px;
     padding: 10px;
-    /* Enables the div to fill the availble space on page */
     flex-basis: 200px;
     flex-grow: 1;
     border-radius: 20px;
@@ -747,28 +633,15 @@ main {
     border-radius: 20px;
 }
 
-/*+++++ Media Responsivness +++++*/
-
-/* For tablets and larger screens (768px and up) */
 @media screen and (min-width: 768px) {
-
-    /* Main Content */
-    /* Location Section */
     #location {
         margin: 10px;
         padding: 10px;
         line-height: 28px;
     }
-
-
 }
 
-/* For laptops and desctop screens (992px and up) */
 @media screen and (min-width: 992px) {
-
-    /* Main Content */
-    /* Location Section */
-
     #location {
         align-items: center;
     }
@@ -789,14 +662,9 @@ main {
     #address p {
         text-align: right;
     }
-
 }
 
-/* For laptop and desktop screens (1200px and up) */
 @media screen and (min-width: 1200px) {
-    /* Main Content */
-    /* Location Section */
-
     #location {
         display: flex;
         flex-direction: column;
@@ -806,7 +674,6 @@ main {
 
     #address {
         max-width: 300px;
-
     }
 
     #map {
@@ -814,22 +681,13 @@ main {
     }
 }
 
-/* For large laptops and desktop screens (1440px and up) */
 @media screen and (min-width: 1440px) {
-
-    /* Main Content */
-    /* Location Section */
     #location {
         align-items: center;
     }
 }
 
-
-/* For largest screen sizes (2000px ) */
 @media screen and (min-width: 2000px) {
-
-    /* Main Content */
-    /* Location Section */
     #location {
         margin-top: 40px;
         align-items: center;
@@ -839,17 +697,11 @@ main {
 
     #location-container {
         align-items: center;
-
     }
 }
 
-/*======================= End of Schedule Page Styles =======================*/
-/*===========================================================================*/
+/* ===== SignUp Page Styles ===== */
 
-/*>>>>>>>>>>>>>>>>>>>>>>>>> SignUp Page Styles<<<<<<<<<<<<<<<<<<<<<<<<*/
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<*/
-
-/* Form Section */
 #sign-up {
     background-image: url("../images/signup-image.webp");
     background-size: cover;
@@ -904,7 +756,6 @@ input[type="checkbox"] {
 .radio-options {
     width: 100%;
     padding: 5px;
-
 }
 
 .checkbox-options {
@@ -938,13 +789,7 @@ input[type="checkbox"] {
     border: 2px double #45444b;
 }
 
-
-/*+++++ Media Responsivness +++++*/
-/* For tablets and larger screens (768px and up) */
 @media screen and (min-width: 768px) {
-
-    /* Main Content */
-    /* Form Section */
     #sign-up {
         background-position: center;
         align-items: center;
@@ -953,35 +798,22 @@ input[type="checkbox"] {
     #sign-up-form {
         max-width: 500px;
         margin: 0 20%;
-
     }
 
     .text-input:hover {
         border-color: #ffffff;
     }
-
 }
 
-/* For largest screen sizes (2000px ) */
 @media screen and (min-width: 2000px) {
-
-    /* Main Content */
-    /* Form Section */
     #sign-up-form {
         max-width: 700px;
         margin: 10% 20%;
     }
-
 }
 
-/*======================= End of SignUp Page Styles =======================*/
-/*===========================================================================*/
+/* ===== Submit Feedback Page Styles ===== */
 
-/*>>>>>>>>>>>>>>>>>>>>>>>>> Submit Feedback Page Styles<<<<<<<<<<<<<<<<<<<<<<<<*/
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<*/
-
-/*** Main Content ***/
-/* Submit Form Section */
 #feedback-section {
     font-size: 200%;
     text-align: center;
@@ -989,14 +821,12 @@ input[type="checkbox"] {
 
 #feedback-message {
     margin-top: 30px;
-
 }
 
 #feedback-message div {
     max-width: 2500px;
     align-items: center;
     margin: 10px;
-
 }
 
 #feedback-message img {
@@ -1010,7 +840,3 @@ input[type="checkbox"] {
     opacity: 0.5;
     margin: 10px;
 }
-
-
-/*======================= End of Submit Feedback Page Styles =======================*/
-/*===========================================================================*/
