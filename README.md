@@ -673,14 +673,18 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
  
 ### **Digital Tools Used**
  - [GitHub]() - used to create, store and save the website building components.
- - [Git]() - used for version control in the GitPod Terminal to Add, Commit and Push the code.
- - [Google Fonts]()
- - [Favicon]()
- - [Font Awesome]()
- - [Balsamiq]()
- - [Birme]()
+ - [Git]() - used for version control in the GitPod Terminal to Add, Commit and Push the code to GitHub
+ - [Google Fonts]() - used their fonts in the website.
+ - [Favicon]() - used their favicons in the website.
+ - [Font Awesome]() - used their free icons in the website.
+ - [Balsamiq]() - used to create the wireframes.
+ - [Birme]() - used to resize the images and format into .jpeg and .webp files.
+ - [Coolors]() - used to generate the colorscheme for the website.
  
 ### **Code**
+ - The website basic structure was inspired by the [Love Running Walkthrough Project](https://kirynaw.github.io/love-running/) and [Code Institute](https://codeinstitute.net/ie/) course content.
+ - The code was created through experimentation and tutorials from [W3S Schools](https://www.w3schools.com/), [Stack Overflow](https://stackoverflow.com/) and my mentor's own tutorial project [LPSB-Learn-GCSE-CS](https://dlhamilton.github.io/LPSB-Learn-GCSE-CS/)
+
 ### **Content**
 ### **Media**
 ### **Acknowledgements**
