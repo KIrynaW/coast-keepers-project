@@ -687,23 +687,26 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
 - The code was created through experimentation and tutorials from [W3S Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/)
 
 ### **Content**
-- The content was taken from [Coast Cleaning Wikipedia article]() and then modified and rephrased by the developer.
+- The content was taken from [Beach Cleaning Wikipedia article](https://en.wikipedia.org/wiki/Beach_cleaning) and then modified and rephrased by the developer.
 - Sections of original content is alos present in the website.
 
 ### **Media**
 - Original images were used of Ballybunion Beach.
 - [iStock Photos](https://www.istockphoto.com/)- Several photos were dowloaded as part of subscription that allows licenced dowloads.
-- [Pexels](https://www.pexels.com/):
-  - [Photo by Elle Huges](https://www.pexels.com/photogroup-of-people-carrying-surfboards-1549196/)
-  - [Photo by Guillaume Meurice](https://www.pexels.com/photo/photography-of-body-of-water-994473/)
-  - [Photo by Belle Co](https://www.pexels.com/photo/photo-of-a-turtle-swimming-underwater-847393/)
-  - [Photo by fauxels](https://www.pexels.com/photo/photo-of-people-putting-their-hands-up-3228685/)
-  - [Photo by Quang Nguyen Vinh](https://www.pexels.com/photo/people-in-cafeteria-2159065/)
-  - [Photo by Lara Jameson](https://www.pexels.com/photo/man-in-black-shorts-holding-white-plastic-bag-9324320/)
-  - [Image by jcomp on Freepik](https://www.freepik.com/free-photo/trash-sand-beach-showing-environmental-pollution-problem_3805894.htm#fromView=search&page=1&position=0&uuid=acb332c4-ca4a-4b15-a03f-21b365d94f3a)
-- [Youtube Video on Coast Cleaning](https://www.youtube.com/watch?v=w4nlCpeFhms)
+- [Pexels](https://www.pexels.com/): the following images were used in the website.
+  - [Photo by Elle Huges](https://www.pexels.com/photogroup-of-people-carrying-surfboards-1549196/) : people carring surf boards.
+  - [Photo by Guillaume Meurice](https://www.pexels.com/photo/photography-of-body-of-water-994473/) : ocean with a whale.
+  - [Photo by Belle Co](https://www.pexels.com/photo/photo-of-a-turtle-swimming-underwater-847393/): a tutle under water.
+  - [Photo by fauxels](https://www.pexels.com/photo/photo-of-people-putting-their-hands-up-3228685/) : people puting their hands up.
+  - [Photo by Quang Nguyen Vinh](https://www.pexels.com/photo/people-in-cafeteria-2159065/) : people in cafeteria.
+  - [Photo by Lara Jameson](https://www.pexels.com/photo/man-in-black-shorts-holding-white-plastic-bag-9324320/) : a man picking plastic on the beach.
+  - [Image by jcomp on Freepik](https://www.freepik.com/free-photo/trash-sand-beach-showing-environmental-pollution-problem_3805894.htm#fromView=search&page=1&position=0&uuid=acb332c4-ca4a-4b15-a03f-21b365d94f3a) : trash on the beach.
+- [Youtube Video on Coast Cleaning](https://www.youtube.com/watch?v=w4nlCpeFhms) : embeded in the Index page.
 
 ### **Acknowledgements**
+- I would like to give special thank you to my mentor Daniel Hamilton, for giving great resources, guiding, teaching and supporting me through this project.
+- Also would like to thank Code Institute for their dedication to their students, wonderful educational material and valuable resources.
+
 
 
 
