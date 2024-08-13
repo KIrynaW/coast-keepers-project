@@ -668,18 +668,18 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
 
 ## **Credits:**
 ### **Languages Used**
-- [HTML5]()
-- [CSS]()
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
  
 ### **Digital Tools Used**
-- [GitHub]() - used to create, store and save the website building components.
-- [Git]() - used for version control in the GitPod Terminal to Add, Commit and Push the code to GitHub
-- [Google Fonts]() - used their fonts in the website.
-- [Favicon]() - used their favicons in the website.
-- [Font Awesome]() - used their free icons in the website.
-- [Balsamiq]() - used to create the wireframes.
-- [Birme]() - used to resize the images and format into .jpeg and .webp files.
-- [Coolors]() - used to generate the colorscheme for the website.
+- [GitHub](https://github.com/) - used to create, store and save the website building components.
+- [Git](https://git-scm.com/) - used for version control in the GitPod Terminal to Add, Commit and Push the code to GitHub
+- [Google Fonts](https://fonts.google.com/) - used their fonts in the website.
+- [Favicon](https://favicon.io/) - used their favicons in the website.
+- [Font Awesome](https://fontawesome.com/) - used their free icons in the website.
+- [Balsamiq](https://balsamiq.com/) - used to create the wireframes.
+- [Birme](https://www.birme.net/) - used to resize the images and format into .jpeg and .webp files.
+- [Coolors](https://coolors.co/) - used to generate the colorscheme for the website.
  
 ### **Code**
 - The website basic structure was inspired by the [Love Running Walkthrough Project](https://kirynaw.github.io/love-running/) and [Code Institute](https://codeinstitute.net/ie/) course content and guidelines from my mentor's own tutorial project [LPSB-Learn-GCSE-CS](https://dlhamilton.github.io/LPSB-Learn-GCSE-CS/)
@@ -699,6 +699,8 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   - [Photo by Belle Co](https://www.pexels.com/photo/photo-of-a-turtle-swimming-underwater-847393/)
   - [Photo by fauxels](https://www.pexels.com/photo/photo-of-people-putting-their-hands-up-3228685/)
   - [Photo by Quang Nguyen Vinh](https://www.pexels.com/photo/people-in-cafeteria-2159065/)
+  - [Photo by Lara Jameson](https://www.pexels.com/photo/man-in-black-shorts-holding-white-plastic-bag-9324320/)
+  - [Image by jcomp on Freepik](https://www.freepik.com/free-photo/trash-sand-beach-showing-environmental-pollution-problem_3805894.htm#fromView=search&page=1&position=0&uuid=acb332c4-ca4a-4b15-a03f-21b365d94f3a)
 - [Youtube Video on Coast Cleaning](https://www.youtube.com/watch?v=w4nlCpeFhms)
 
 ### **Acknowledgements**
