@@ -668,29 +668,39 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
 
 ## **Credits:**
 ### **Languages Used**
-  - [HTML5]()
-  - [CSS]()
+- [HTML5]()
+- [CSS]()
  
 ### **Digital Tools Used**
-  - [GitHub]() - used to create, store and save the website building components.
-  - [Git]() - used for version control in the GitPod Terminal to Add, Commit and Push the code to GitHub
-  - [Google Fonts]() - used their fonts in the website.
-  - [Favicon]() - used their favicons in the website.
-  - [Font Awesome]() - used their free icons in the website.
-  - [Balsamiq]() - used to create the wireframes.
-  - [Birme]() - used to resize the images and format into .jpeg and .webp files.
-  - [Coolors]() - used to generate the colorscheme for the website.
+- [GitHub]() - used to create, store and save the website building components.
+- [Git]() - used for version control in the GitPod Terminal to Add, Commit and Push the code to GitHub
+- [Google Fonts]() - used their fonts in the website.
+- [Favicon]() - used their favicons in the website.
+- [Font Awesome]() - used their free icons in the website.
+- [Balsamiq]() - used to create the wireframes.
+- [Birme]() - used to resize the images and format into .jpeg and .webp files.
+- [Coolors]() - used to generate the colorscheme for the website.
  
 ### **Code**
-  - The website basic structure was inspired by the [Love Running Walkthrough Project](https://kirynaw.github.io/love-running/) and [Code Institute](https://codeinstitute.net/ie/) course content and guidelines from my mentor's own tutorial project [LPSB-Learn-GCSE-CS](https://dlhamilton.github.io/LPSB-Learn-GCSE-CS/)
+- The website basic structure was inspired by the [Love Running Walkthrough Project](https://kirynaw.github.io/love-running/) and [Code Institute](https://codeinstitute.net/ie/) course content and guidelines from my mentor's own tutorial project [LPSB-Learn-GCSE-CS](https://dlhamilton.github.io/LPSB-Learn-GCSE-CS/)
 
-  - The code was created through experimentation and tutorials from [W3S Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/)
+- The code was created through experimentation and tutorials from [W3S Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/)
 
 ### **Content**
 - The content was taken from [Coast Cleaning Wikipedia article]() and then modified and rephrased by the developer.
 - Sections of original content is alos present in the website.
 
 ### **Media**
+- Original images were used of Ballybunion Beach.
+- [iStock Photos](https://www.istockphoto.com/)- Several photos were dowloaded as part of subscription that allows licenced dowloads.
+- [Pexels](https://www.pexels.com/):
+  - [Photo by Elle Huges](https://www.pexels.com/photogroup-of-people-carrying-surfboards-1549196/)
+  - [Photo by Guillaume Meurice](https://www.pexels.com/photo/photography-of-body-of-water-994473/)
+  - [Photo by Belle Co](https://www.pexels.com/photo/photo-of-a-turtle-swimming-underwater-847393/)
+  - [Photo by fauxels](https://www.pexels.com/photo/photo-of-people-putting-their-hands-up-3228685/)
+  - [Photo by Quang Nguyen Vinh](https://www.pexels.com/photo/people-in-cafeteria-2159065/)
+- [Youtube Video on Coast Cleaning](https://www.youtube.com/watch?v=w4nlCpeFhms)
+
 ### **Acknowledgements**
 
 
