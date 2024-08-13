@@ -667,7 +667,19 @@ The *About*, *Schedule* and *Sign Up* page were also run through *Lighthouse* st
   A live link to the website can be found here: [Coast Keepers](https://kirynaw.github.io/coast-keepers-project/)
 
 ## **Credits:**
+### **Languages Used**
+ - [HTML5]()
+ - [CSS]()
+ 
 ### **Digital Tools Used**
+ - [GitHub]() - used to create, store and save the website building components.
+ - [Git]() - used for version control in the GitPod Terminal to Add, Commit and Push the code.
+ - [Google Fonts]()
+ - [Favicon]()
+ - [Font Awesome]()
+ - [Balsamiq]()
+ - [Birme]()
+ 
 ### **Code**
 ### **Content**
 ### **Media**
